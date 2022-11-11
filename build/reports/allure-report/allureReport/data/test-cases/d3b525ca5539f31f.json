@@ -1,0 +1,270 @@
+{
+  "uid" : "d3b525ca5539f31f",
+  "name" : "Should credit payment card with approved test card and max length card owner's name",
+  "fullName" : "ru.netology.tests.CreditTest.shouldSuccessTransactionMaxLengthCardOwnerName",
+  "historyId" : "d44d2c6ead64af2c8d57ceaa7080b975",
+  "time" : {
+    "start" : 1667816882381,
+    "stop" : 1667816893046,
+    "duration" : 10665
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUpAll",
+    "time" : {
+      "start" : 1667816857227,
+      "stop" : 1667816857241,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setUP",
+    "time" : {
+      "start" : 1667816882382,
+      "stop" : 1667816882382,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"By.xpath: //span[text()='Купить в кредит']\") click()",
+      "time" : {
+        "start" : 1667816882382,
+        "stop" : 1667816882889,
+        "duration" : 507
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //h3[text()='Кредит по данным карты']\") should be(visible)",
+      "time" : {
+        "start" : 1667816882890,
+        "stop" : 1667816882996,
+        "duration" : 106
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Номер карты']/following-sibling::span/input\") set value(4444 4444 4444 4441)",
+      "time" : {
+        "start" : 1667816883021,
+        "stop" : 1667816883268,
+        "duration" : 247
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Месяц']/following-sibling::span/input\") set value(11)",
+      "time" : {
+        "start" : 1667816883268,
+        "stop" : 1667816883450,
+        "duration" : 182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Год']/following-sibling::span/input\") set value(23)",
+      "time" : {
+        "start" : 1667816883450,
+        "stop" : 1667816883596,
+        "duration" : 146
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Владелец']/following-sibling::span/input\") set value(Harum magnam velit te)",
+      "time" : {
+        "start" : 1667816883596,
+        "stop" : 1667816883880,
+        "duration" : 284
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='CVC/CVV']/following-sibling::span/input\") set value(067)",
+      "time" : {
+        "start" : 1667816883880,
+        "stop" : 1667816884045,
+        "duration" : 165
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Продолжить']\") click()",
+      "time" : {
+        "start" : 1667816884045,
+        "stop" : 1667816884155,
+        "duration" : 110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //div[text()='Операция одобрена Банком.']\") should be([visible, 10 s.])",
+      "time" : {
+        "start" : 1667816884155,
+        "stop" : 1667816892801,
+        "duration" : 8646
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 9,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1667816892802,
+      "stop" : 1667816893045,
+      "duration" : 243
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "tearDownAll",
+    "time" : {
+      "start" : 1667817289275,
+      "stop" : 1667817289275,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:ru.netology.tests.CreditTest]/[method:shouldSuccessTransactionMaxLengthCardOwnerName()]"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-KRP3OJ30"
+  }, {
+    "name" : "thread",
+    "value" : "21036@LAPTOP-KRP3OJ30.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.tests.CreditTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.tests.CreditTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldSuccessTransactionMaxLengthCardOwnerName"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.tests.CreditTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3b525ca5539f31f.json",
+  "parameterValues" : [ ]
+}

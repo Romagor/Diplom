@@ -1,0 +1,585 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816879153.0.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816879153.0.html\r\nTimeout: 10 s.",
+      "children" : [ {
+        "name" : "Should approved credit card with approved test card and max date minus 1 month",
+        "uid" : "784ae680ee5dfbe6",
+        "parentUid" : "a77249966cd6d0df2a076bb3c15d12ab",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667816866054,
+          "stop" : 1667816879635,
+          "duration" : 13581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a77249966cd6d0df2a076bb3c15d12ab"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816909711.1.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816909711.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with more max length card owner's name by one char",
+        "uid" : "7b7c4cc65a1d88e6",
+        "parentUid" : "af03c3d2c0c742c2e579b2afa3402b33",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667816904408,
+          "stop" : 1667816910241,
+          "duration" : 5833
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af03c3d2c0c742c2e579b2afa3402b33"
+    }, {
+      "name" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816962400.2.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816962400.2.html\r\nTimeout: 10 s.",
+      "children" : [ {
+        "name" : "Should approved credit card with month by one digit",
+        "uid" : "e316419626657a08",
+        "parentUid" : "4d1953dac11b41bdb112678cf53a54f2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667816951069,
+          "stop" : 1667816978942,
+          "duration" : 27873
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d1953dac11b41bdb112678cf53a54f2"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817031025.3.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817031025.3.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with card owner's name is written in Cyrillic",
+        "uid" : "c549b8bc2b92c1ac",
+        "parentUid" : "91227d6366a15af5fbc029e87c5c8c90",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817025923,
+          "stop" : 1667817031550,
+          "duration" : 5627
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "91227d6366a15af5fbc029e87c5c8c90"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817038492.4.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817038492.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with card owner's name with numbers",
+        "uid" : "ecb67b5e10f3b837",
+        "parentUid" : "6c1d0a139d2362ec0811f61924d4736f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817033080,
+          "stop" : 1667817055048,
+          "duration" : 21968
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c1d0a139d2362ec0811f61924d4736f"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817061661.5.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817061661.5.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with less min length card owner's name by one char",
+        "uid" : "6aee5a08909be4de",
+        "parentUid" : "5287c875bf4ad9de4624b9eb4dc26d34",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817056866,
+          "stop" : 1667817062140,
+          "duration" : 5274
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5287c875bf4ad9de4624b9eb4dc26d34"
+    }, {
+      "name" : "Element should not be visible {By.xpath: //span[text()='Номер карты']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817131521.6.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817131521.6.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "Should not to show red warning with empty all field after filled field",
+        "uid" : "5663f57c8307dce3",
+        "parentUid" : "abd3c59a609f13c86dee6484dcfeb808",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817117004,
+          "stop" : 1667817132279,
+          "duration" : 15275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "abd3c59a609f13c86dee6484dcfeb808"
+    }, {
+      "name" : "Element should be visible {By.xpath: //div[text()='Ошибка! Банк отказал в проведении операции.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817145214.7.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817145214.7.html\r\nTimeout: 10 s.",
+      "children" : [ {
+        "name" : "Should decline credit card with declined test card",
+        "uid" : "ac7101e30754f54d",
+        "parentUid" : "c89c8b7b789993ff5f47fe139d78f716",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817134229,
+          "stop" : 1667817145657,
+          "duration" : 11428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c89c8b7b789993ff5f47fe139d78f716"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817152465.8.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817152465.8.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with card owner's name with special characters",
+        "uid" : "1328382629c8c1f3",
+        "parentUid" : "1539515ea88ef60cb99595e8d36cca19",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817147266,
+          "stop" : 1667817169138,
+          "duration" : 21872
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1539515ea88ef60cb99595e8d36cca19"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817175770.9.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817175770.9.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Месяц']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should to show red warning with 00 month",
+        "uid" : "32dcdae71e7a1b72",
+        "parentUid" : "f779894cc995d32d2c679e87406cc79d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817170364,
+          "stop" : 1667817192410,
+          "duration" : 22046
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f779894cc995d32d2c679e87406cc79d"
+    }, {
+      "name" : "Element should have text 'Неверно указан срок действия карты' {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817254139.10.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817254139.10.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "Should to show red warning with expired card for month",
+        "uid" : "793a093adca0f6e3",
+        "parentUid" : "2a13ddef693b2effa5d87ebc84e9c2f3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817249060,
+          "stop" : 1667817270720,
+          "duration" : 21660
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2a13ddef693b2effa5d87ebc84e9c2f3"
+    }, {
+      "name" : "expected: <8755110d-5aee-4003-9701-36c222982b1a> but was: <null>",
+      "children" : [ {
+        "name" : "Should added correct credit data in order_entity table",
+        "uid" : "ce455945261c2f4e",
+        "parentUid" : "6078b271a47a3cb7113318ef3dcabb7f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817289285,
+          "stop" : 1667817292893,
+          "duration" : 3608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6078b271a47a3cb7113318ef3dcabb7f"
+    }, {
+      "name" : "expected: <2022-11-07 13:34> but was: <2022-11-07 10:34>",
+      "children" : [ {
+        "name" : "Should added correct created date in credit table with DECLINED card",
+        "uid" : "41f3615cc157bb71",
+        "parentUid" : "6c59420bf1edd86638e84a22bf36c9fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817293062,
+          "stop" : 1667817293177,
+          "duration" : 115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Should added correct created date in payment table with DECLINED card",
+        "uid" : "4b352f5971ac2a6d",
+        "parentUid" : "6c59420bf1edd86638e84a22bf36c9fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817293325,
+          "stop" : 1667817293458,
+          "duration" : 133
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Should added correct created date in credit table with APPROVED card",
+        "uid" : "af940df0cbe7c43",
+        "parentUid" : "6c59420bf1edd86638e84a22bf36c9fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817293541,
+          "stop" : 1667817293626,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Should added correct created date in payment table with APPROVED card",
+        "uid" : "f3007f0c362f898f",
+        "parentUid" : "6c59420bf1edd86638e84a22bf36c9fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817293631,
+          "stop" : 1667817293738,
+          "duration" : 107
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c59420bf1edd86638e84a22bf36c9fe"
+    }, {
+      "name" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817306813.11.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817306813.11.html\r\nTimeout: 10 s.",
+      "children" : [ {
+        "name" : "Should approved payment card with approved test card and max date minus 1 month",
+        "uid" : "ce220d0905aa9588",
+        "parentUid" : "b8a1d28cf543cd65c35692e27b8d2e25",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817295349,
+          "stop" : 1667817323392,
+          "duration" : 28043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8a1d28cf543cd65c35692e27b8d2e25"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817355962.12.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817355962.12.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with more max length card owner's name by one char",
+        "uid" : "6845dcd810a2390f",
+        "parentUid" : "ba61afe647888bafc4a1ab1727dbe9d1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817350875,
+          "stop" : 1667817372625,
+          "duration" : 21750
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ba61afe647888bafc4a1ab1727dbe9d1"
+    }, {
+      "name" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817422766.13.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817422766.13.html\r\nTimeout: 10 s.",
+      "children" : [ {
+        "name" : "Should approved payment card with month by one digit",
+        "uid" : "4c09b2c45470fcbc",
+        "parentUid" : "451b2b2c9c0d7e3b498c82e8ac10d92a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817411881,
+          "stop" : 1667817439323,
+          "duration" : 27442
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "451b2b2c9c0d7e3b498c82e8ac10d92a"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817493064.14.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817493064.14.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with card owner's name is written in Cyrillic",
+        "uid" : "bd80b2d2d3e5f2c3",
+        "parentUid" : "6c96c53d1ece52de04e1a876b29b7d4d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817487992,
+          "stop" : 1667817509691,
+          "duration" : 21699
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c96c53d1ece52de04e1a876b29b7d4d"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817515974.15.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817515974.15.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with card owner's name with numbers",
+        "uid" : "46a717db6bd24fe5",
+        "parentUid" : "d47459725ab38b5850c4d40fd36f5bbb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817510923,
+          "stop" : 1667817532596,
+          "duration" : 21673
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d47459725ab38b5850c4d40fd36f5bbb"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817538670.16.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817538670.16.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with less min length card owner's name by one char",
+        "uid" : "d2f89c5e1c1faf06",
+        "parentUid" : "96ca816762459b5470762090c8e5f8c6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817533865,
+          "stop" : 1667817555371,
+          "duration" : 21506
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "96ca816762459b5470762090c8e5f8c6"
+    }, {
+      "name" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\">Операция одобрена Банком.</div>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817567725.17.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817567725.17.html\r\nTimeout: 10 s.",
+      "children" : [ {
+        "name" : "Should approved payment card with approved test card and min length card owner's name",
+        "uid" : "6de531b9171baa98",
+        "parentUid" : "66064f89096a83a722b31ac64a41264c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817556861,
+          "stop" : 1667817584358,
+          "duration" : 27497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "66064f89096a83a722b31ac64a41264c"
+    }, {
+      "name" : "Element should be visible {By.xpath: //div[text()='Ошибка! Банк отказал в проведении операции.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817596742.18.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817596742.18.html\r\nTimeout: 10 s.",
+      "children" : [ {
+        "name" : "Should decline payment card with declined test card",
+        "uid" : "fec6011b8807ca94",
+        "parentUid" : "8a9d6a46e885b5cc5202f63aa3eb77d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817585857,
+          "stop" : 1667817597161,
+          "duration" : 11304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a9d6a46e885b5cc5202f63aa3eb77d6"
+    }, {
+      "name" : "Element should not be visible {By.xpath: //span[text()='Номер карты']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817629497.19.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817629497.19.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "Should not to show red warning with empty all field after filled field",
+        "uid" : "10ef5e101e364849",
+        "parentUid" : "1604975f6a6ad52216d6159fe1bba8db",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817616910,
+          "stop" : 1667817629977,
+          "duration" : 13067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1604975f6a6ad52216d6159fe1bba8db"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817667503.20.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817667503.20.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should o show red warning with card owner's name with special characters",
+        "uid" : "8c5df0e5f21d9d45",
+        "parentUid" : "90dab1ab769afd2fdec8a90a2bbb076c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817662399,
+          "stop" : 1667817684262,
+          "duration" : 21863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "90dab1ab769afd2fdec8a90a2bbb076c"
+    }, {
+      "name" : "Element not found {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817690827.21.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817690827.21.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Месяц']/following-sibling::span[@class='input__sub']\"}",
+      "children" : [ {
+        "name" : "Should to show red warning with 00 month",
+        "uid" : "3008665ad923ac57",
+        "parentUid" : "2f4b86fca48db9359d5a991d8b8f6df8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817685878,
+          "stop" : 1667817707504,
+          "duration" : 21626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f4b86fca48db9359d5a991d8b8f6df8"
+    }, {
+      "name" : "Element should have text 'Неверно указан срок действия карты' {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817780289.22.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817780289.22.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "Should to show red warning with expired card for month",
+        "uid" : "426468b9ad25e34f",
+        "parentUid" : "3365eff2fa2241396f2c6e0c3a5f4b82",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667817775319,
+          "stop" : 1667817780705,
+          "duration" : 5386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3365eff2fa2241396f2c6e0c3a5f4b82"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
