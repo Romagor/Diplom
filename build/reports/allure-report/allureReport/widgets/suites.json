@@ -1,19 +1,19 @@
 {
   "total" : 3,
   "items" : [ {
-    "uid" : "01193c19709c4da36b3c854ab0e21950",
-    "name" : "ru.netology.tests.PaymentTest",
+    "uid" : "c40284ead2e91df8f37cdfec7769f40d",
+    "name" : "ru.netology.tests.CreditTest",
     "statistic" : {
-      "failed" : 12,
+      "failed" : 13,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 13,
       "unknown" : 0,
       "total" : 26
     }
   }, {
-    "uid" : "c40284ead2e91df8f37cdfec7769f40d",
-    "name" : "ru.netology.tests.CreditTest",
+    "uid" : "01193c19709c4da36b3c854ab0e21950",
+    "name" : "ru.netology.tests.PaymentTest",
     "statistic" : {
       "failed" : 11,
       "broken" : 0,

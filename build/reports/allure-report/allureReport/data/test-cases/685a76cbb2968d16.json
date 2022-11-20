@@ -1,0 +1,92 @@
+{
+  "uid" : "685a76cbb2968d16",
+  "name" : "Should added correct created date in payment table with DECLINED card",
+  "fullName" : "ru.netology.tests.DBTest.shouldAddedCorrectDateInPaymentTableWithDeclinedCard",
+  "historyId" : "fdc27dfa0cac8ecddd0d4dd73c6d66ac",
+  "time" : {
+    "start" : 1668415946939,
+    "stop" : 1668415947126,
+    "duration" : 187
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUpAll",
+    "time" : {
+      "start" : 1668415942473,
+      "stop" : 1668415942501,
+      "duration" : 28
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownAll",
+    "time" : {
+      "start" : 1668415947750,
+      "stop" : 1668415947750,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:ru.netology.tests.DBTest]/[method:shouldAddedCorrectDateInPaymentTableWithDeclinedCard()]"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-KRP3OJ30"
+  }, {
+    "name" : "thread",
+    "value" : "24596@LAPTOP-KRP3OJ30.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.tests.DBTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.tests.DBTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldAddedCorrectDateInPaymentTableWithDeclinedCard"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.tests.DBTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "685a76cbb2968d16.json",
+  "parameterValues" : [ ]
+}

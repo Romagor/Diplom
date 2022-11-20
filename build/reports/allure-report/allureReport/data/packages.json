@@ -1,639 +1,638 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-  "name" : "packages",
   "children" : [ {
     "name" : "ru.netology.tests",
     "children" : [ {
-      "name" : "CreditTest",
-      "children" : [ {
-        "name" : "shouldSuccessTransactionWithPreMaxAllowedDate",
-        "uid" : "784ae680ee5dfbe6",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667816866054,
-          "stop" : 1667816879635,
-          "duration" : 13581
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldSuccessTransactionMaxLengthCardOwnerName",
-        "uid" : "d3b525ca5539f31f",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667816882381,
-          "stop" : 1667816893046,
-          "duration" : 10665
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldSuccessTransactionWithCreditCard",
-        "uid" : "4f8b5e074c9cfb4e",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667816895091,
-          "stop" : 1667816902787,
-          "duration" : 7696
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithMoreMaxLengthCardOwnerName",
-        "uid" : "7b7c4cc65a1d88e6",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667816904408,
-          "stop" : 1667816910241,
-          "duration" : 5833
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithInvalidMonthData",
-        "uid" : "f99ce5cec006ee0",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667816912028,
-          "stop" : 1667816929483,
-          "duration" : 17455
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithEmptyCardNumberField",
-        "uid" : "75498069667164ff",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667816931108,
-          "stop" : 1667816948841,
-          "duration" : 17733
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldSuccessTransactionWithMonthWithoutZero",
-        "uid" : "e316419626657a08",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667816951069,
-          "stop" : 1667816978942,
-          "duration" : 27873
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithEmptyAllField",
-        "uid" : "ba476f4594220bcb",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667816980502,
-          "stop" : 1667816997530,
-          "duration" : 17028
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldSuccessTransactionWithPreMinAllowedDate",
-        "uid" : "8239b7a2a24679ab",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667816999112,
-          "stop" : 1667817005704,
-          "duration" : 6592
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithExpiredCardForYear",
-        "uid" : "7cc953d388492d9b",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817007105,
-          "stop" : 1667817024451,
-          "duration" : 17346
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithCyrillicCardOwnerName",
-        "uid" : "c549b8bc2b92c1ac",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817025923,
-          "stop" : 1667817031550,
-          "duration" : 5627
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithNumbersCardOwnerName",
-        "uid" : "ecb67b5e10f3b837",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817033080,
-          "stop" : 1667817055048,
-          "duration" : 21968
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithLessMinLengthCardOwnerName",
-        "uid" : "6aee5a08909be4de",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817056866,
-          "stop" : 1667817062140,
-          "duration" : 5274
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldDeclineWithRandomCreditCard",
-        "uid" : "2fc2d0def7f7dd2e",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817063987,
-          "stop" : 1667817068345,
-          "duration" : 4358
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldSuccessTransactionMinLengthCardOwnerName",
-        "uid" : "7417d7aef4c3faee",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817069867,
-          "stop" : 1667817096419,
-          "duration" : 26552
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithEmptyMonthField",
-        "uid" : "df849ae484e4408b",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817098093,
-          "stop" : 1667817115427,
-          "duration" : 17334
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldNotShowMessAfterEmptyAllField",
-        "uid" : "5663f57c8307dce3",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817117004,
-          "stop" : 1667817132279,
-          "duration" : 15275
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldNotSuccessTransactionWithCreditCard",
-        "uid" : "ac7101e30754f54d",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817134229,
-          "stop" : 1667817145657,
-          "duration" : 11428
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithSpecCharactersCardOwnerName",
-        "uid" : "1328382629c8c1f3",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817147266,
-          "stop" : 1667817169138,
-          "duration" : 21872
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithZeroZeroMonth",
-        "uid" : "32dcdae71e7a1b72",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817170364,
-          "stop" : 1667817192410,
-          "duration" : 22046
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithEmptyCardOwnerField",
-        "uid" : "731b220157e7ea25",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817193885,
-          "stop" : 1667817211004,
-          "duration" : 17119
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldSuccessTransactionWithMaxAllowedDate",
-        "uid" : "380252cae435ae61",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817212120,
-          "stop" : 1667817217012,
-          "duration" : 4892
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithEmptyYearField",
-        "uid" : "da32098309aad31a",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817218183,
-          "stop" : 1667817219311,
-          "duration" : 1128
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldSuccessTransactionWithMinAllowedDate",
-        "uid" : "84688374615db",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817220279,
-          "stop" : 1667817247626,
-          "duration" : 27347
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithExpiredCardForMonth",
-        "uid" : "793a093adca0f6e3",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1667817249060,
-          "stop" : 1667817270720,
-          "duration" : 21660
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "shouldShowMessWithEmptyCvcField",
-        "uid" : "8a696d5d07ca8667",
-        "parentUid" : "2a1718ff2d01774ea76090119074801f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1667817271975,
-          "stop" : 1667817289260,
-          "duration" : 17285
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "2a1718ff2d01774ea76090119074801f"
-    }, {
       "name" : "DBTest",
       "children" : [ {
         "name" : "shouldAddedCorrectCreditDataInOrderTable",
-        "uid" : "ce455945261c2f4e",
+        "uid" : "ddc2588a0fe4cab0",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "failed",
         "time" : {
-          "start" : 1667817289285,
-          "stop" : 1667817292893,
-          "duration" : 3608
+          "start" : 1668939347859,
+          "stop" : 1668939351981,
+          "duration" : 4122
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithDeclinedCreditCardThroughAPI",
-        "uid" : "59596a6f50aa9fb8",
+        "uid" : "7406a682eb8caf5e",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "passed",
         "time" : {
-          "start" : 1667817292897,
-          "stop" : 1667817293058,
-          "duration" : 161
+          "start" : 1668939352106,
+          "stop" : 1668939352449,
+          "duration" : 343
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldAddedCorrectDateInCreditTableWithDeclinedCard",
-        "uid" : "41f3615cc157bb71",
+        "uid" : "4b0022e434fc1820",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "failed",
         "time" : {
-          "start" : 1667817293062,
-          "stop" : 1667817293177,
-          "duration" : 115
+          "start" : 1668939352454,
+          "stop" : 1668939352632,
+          "duration" : 178
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithApprovedCreditCardThroughAPI",
-        "uid" : "37255736b2911828",
+        "uid" : "ab48b218bc15d5ba",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "passed",
         "time" : {
-          "start" : 1667817293181,
-          "stop" : 1667817293321,
-          "duration" : 140
+          "start" : 1668939352640,
+          "stop" : 1668939352745,
+          "duration" : 105
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldAddedCorrectDateInPaymentTableWithDeclinedCard",
-        "uid" : "4b352f5971ac2a6d",
+        "uid" : "4eb4dafe5c1200d9",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "failed",
         "time" : {
-          "start" : 1667817293325,
-          "stop" : 1667817293458,
-          "duration" : 133
+          "start" : 1668939352750,
+          "stop" : 1668939352845,
+          "duration" : 95
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithApprovedPaymentCardThroughAPI",
-        "uid" : "67766d9a9ab33778",
+        "uid" : "c0249c8e131a1d0c",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "passed",
         "time" : {
-          "start" : 1667817293462,
-          "stop" : 1667817293538,
-          "duration" : 76
+          "start" : 1668939352852,
+          "stop" : 1668939352955,
+          "duration" : 103
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldAddedCorrectDateInCreditTableWithApprovedCard",
-        "uid" : "af940df0cbe7c43",
+        "uid" : "7027c9952d6e140a",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "failed",
         "time" : {
-          "start" : 1667817293541,
-          "stop" : 1667817293626,
-          "duration" : 85
+          "start" : 1668939352960,
+          "stop" : 1668939353048,
+          "duration" : 88
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldAddedCorrectDateInPaymentTableWithApprovedCard",
-        "uid" : "f3007f0c362f898f",
+        "uid" : "7734d3dd3b1fb942",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "failed",
         "time" : {
-          "start" : 1667817293631,
-          "stop" : 1667817293738,
-          "duration" : 107
+          "start" : 1668939353053,
+          "stop" : 1668939353157,
+          "duration" : 104
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithDeclinedPaymentCardThroughAPI",
-        "uid" : "4fcbf9e2ee21ef52",
+        "uid" : "c7773e82b7cdc71d",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "passed",
         "time" : {
-          "start" : 1667817293743,
-          "stop" : 1667817293849,
+          "start" : 1668939353162,
+          "stop" : 1668939353268,
           "duration" : 106
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       }, {
         "name" : "shouldAddedCorrectPaymentDataInOrderTable",
-        "uid" : "8d437f9621bfb2ea",
+        "uid" : "e1a315676f9fd89c",
         "parentUid" : "c27524299d20155caec10c05c22f453a",
         "status" : "passed",
         "time" : {
-          "start" : 1667817293852,
-          "stop" : 1667817293980,
-          "duration" : 128
+          "start" : 1668939353273,
+          "stop" : 1668939353404,
+          "duration" : 131
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
         "parameters" : [ ]
       } ],
       "uid" : "c27524299d20155caec10c05c22f453a"
     }, {
+      "name" : "CreditTest",
+      "children" : [ {
+        "name" : "shouldSuccessTransactionWithPreMaxAllowedDate",
+        "uid" : "4590b5163fa9d79a",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939359695,
+          "stop" : 1668939371901,
+          "duration" : 12206
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldSuccessTransactionMaxLengthCardOwnerName",
+        "uid" : "df21ba0961764217",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939373521,
+          "stop" : 1668939385167,
+          "duration" : 11646
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldSuccessTransactionWithCreditCard",
+        "uid" : "ef6156882bf88a4b",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939386712,
+          "stop" : 1668939399829,
+          "duration" : 13117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithMoreMaxLengthCardOwnerName",
+        "uid" : "145f7ee0c36edba2",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939402049,
+          "stop" : 1668939408630,
+          "duration" : 6581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithInvalidMonthData",
+        "uid" : "6e0c3bee60ef8282",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939410496,
+          "stop" : 1668939412587,
+          "duration" : 2091
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithEmptyCardNumberField",
+        "uid" : "9ca789f781500354",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939413985,
+          "stop" : 1668939415922,
+          "duration" : 1937
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldSuccessTransactionWithMonthWithoutZero",
+        "uid" : "220165b967f0d324",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939417493,
+          "stop" : 1668939429511,
+          "duration" : 12018
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithEmptyAllField",
+        "uid" : "9ec74c00babf20a1",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939431435,
+          "stop" : 1668939432197,
+          "duration" : 762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldSuccessTransactionWithPreMinAllowedDate",
+        "uid" : "b111c2cc6b84a2c9",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939433406,
+          "stop" : 1668939444965,
+          "duration" : 11559
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithExpiredCardForYear",
+        "uid" : "689a8b8535971022",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939446728,
+          "stop" : 1668939465794,
+          "duration" : 19066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithCyrillicCardOwnerName",
+        "uid" : "3d724b8aabba80bb",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939467517,
+          "stop" : 1668939473544,
+          "duration" : 6027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithNumbersCardOwnerName",
+        "uid" : "61db79b10b6df30f",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939475701,
+          "stop" : 1668939481612,
+          "duration" : 5911
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithLessMinLengthCardOwnerName",
+        "uid" : "6c894f5eb019aa8f",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939483447,
+          "stop" : 1668939489460,
+          "duration" : 6013
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldDeclineWithRandomCreditCard",
+        "uid" : "93556661be56987e",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939491487,
+          "stop" : 1668939501162,
+          "duration" : 9675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldSuccessTransactionMinLengthCardOwnerName",
+        "uid" : "a2b5f29e9187a20e",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939502676,
+          "stop" : 1668939514643,
+          "duration" : 11967
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithEmptyMonthField",
+        "uid" : "3957aa158dd846d9",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939516285,
+          "stop" : 1668939533733,
+          "duration" : 17448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotShowMessAfterEmptyAllField",
+        "uid" : "f8e183d4021b69fd",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939535284,
+          "stop" : 1668939544463,
+          "duration" : 9179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotSuccessTransactionWithCreditCard",
+        "uid" : "95e697d05edc66f",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939545795,
+          "stop" : 1668939557353,
+          "duration" : 11558
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithSpecCharactersCardOwnerName",
+        "uid" : "dd23d645bbc48e86",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939558862,
+          "stop" : 1668939564518,
+          "duration" : 5656
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithZeroZeroMonth",
+        "uid" : "990aa13451cd7936",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939566419,
+          "stop" : 1668939572107,
+          "duration" : 5688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithEmptyCardOwnerField",
+        "uid" : "810a39eb3793e7cb",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939573535,
+          "stop" : 1668939574712,
+          "duration" : 1177
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldSuccessTransactionWithMaxAllowedDate",
+        "uid" : "ac90013a2b778940",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939575933,
+          "stop" : 1668939600125,
+          "duration" : 24192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithEmptyYearField",
+        "uid" : "cfafea5307a7da2c",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939601420,
+          "stop" : 1668939618649,
+          "duration" : 17229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldSuccessTransactionWithMinAllowedDate",
+        "uid" : "7842d590677bf44e",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939620349,
+          "stop" : 1668939626540,
+          "duration" : 6191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithExpiredCardForMonth",
+        "uid" : "6221fac393362f7a",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668939628217,
+          "stop" : 1668939649697,
+          "duration" : 21480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldShowMessWithEmptyCvcField",
+        "uid" : "ea555d279eeee845",
+        "parentUid" : "2a1718ff2d01774ea76090119074801f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668939651248,
+          "stop" : 1668939668444,
+          "duration" : 17196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2a1718ff2d01774ea76090119074801f"
+    }, {
       "name" : "PaymentTest",
       "children" : [ {
         "name" : "shouldSuccessTransactionWithPreMaxAllowedDate",
-        "uid" : "ce220d0905aa9588",
+        "uid" : "1857439e128008c5",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817295349,
-          "stop" : 1667817323392,
-          "duration" : 28043
+          "start" : 1668939669487,
+          "stop" : 1668939681479,
+          "duration" : 11992
         },
         "flaky" : false,
         "newFailed" : false,
@@ -644,13 +643,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionMaxLengthCardOwnerName",
-        "uid" : "3e74b0e4d5347f9d",
+        "uid" : "c519fa741131d029",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817325116,
-          "stop" : 1667817349068,
-          "duration" : 23952
+          "start" : 1668939682888,
+          "stop" : 1668939688089,
+          "duration" : 5201
         },
         "flaky" : false,
         "newFailed" : false,
@@ -661,13 +660,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithMoreMaxLengthCardOwnerName",
-        "uid" : "6845dcd810a2390f",
+        "uid" : "4aa444b8632159e9",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817350875,
-          "stop" : 1667817372625,
-          "duration" : 21750
+          "start" : 1668939689409,
+          "stop" : 1668939695450,
+          "duration" : 6041
         },
         "flaky" : false,
         "newFailed" : false,
@@ -678,13 +677,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithInvalidMonthData",
-        "uid" : "d8ce904655783433",
+        "uid" : "5ff3401425e16a2e",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817373942,
-          "stop" : 1667817391367,
-          "duration" : 17425
+          "start" : 1668939697049,
+          "stop" : 1668939714628,
+          "duration" : 17579
         },
         "flaky" : false,
         "newFailed" : false,
@@ -695,13 +694,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithEmptyCardNumberField",
-        "uid" : "1c2d8f0fdccfa0b3",
+        "uid" : "a64f9dfffd5e30ea",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817392974,
-          "stop" : 1667817410263,
-          "duration" : 17289
+          "start" : 1668939716722,
+          "stop" : 1668939733996,
+          "duration" : 17274
         },
         "flaky" : false,
         "newFailed" : false,
@@ -712,13 +711,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithMonthWithoutZero",
-        "uid" : "4c09b2c45470fcbc",
+        "uid" : "3e1ba0129129acb",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817411881,
-          "stop" : 1667817439323,
-          "duration" : 27442
+          "start" : 1668939736305,
+          "stop" : 1668939747913,
+          "duration" : 11608
         },
         "flaky" : false,
         "newFailed" : false,
@@ -729,13 +728,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithEmptyAllField",
-        "uid" : "472f933ac86a3ecc",
+        "uid" : "8a9e4e1da9506a1f",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817441068,
-          "stop" : 1667817457902,
-          "duration" : 16834
+          "start" : 1668939749348,
+          "stop" : 1668939766492,
+          "duration" : 17144
         },
         "flaky" : false,
         "newFailed" : false,
@@ -746,13 +745,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithPreMinAllowedDate",
-        "uid" : "d43710a5e6331426",
+        "uid" : "2793cd6c70e0ade1",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817459104,
-          "stop" : 1667817468316,
-          "duration" : 9212
+          "start" : 1668939767388,
+          "stop" : 1668939774460,
+          "duration" : 7072
         },
         "flaky" : false,
         "newFailed" : false,
@@ -763,13 +762,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithExpiredCardForYear",
-        "uid" : "d45d586c1cd5fe31",
+        "uid" : "4261596c825abe1d",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817469633,
-          "stop" : 1667817486891,
-          "duration" : 17258
+          "start" : 1668939776190,
+          "stop" : 1668939793357,
+          "duration" : 17167
         },
         "flaky" : false,
         "newFailed" : false,
@@ -780,13 +779,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithCyrillicCardOwnerName",
-        "uid" : "bd80b2d2d3e5f2c3",
+        "uid" : "96e65430d22cf2be",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817487992,
-          "stop" : 1667817509691,
-          "duration" : 21699
+          "start" : 1668939794701,
+          "stop" : 1668939800452,
+          "duration" : 5751
         },
         "flaky" : false,
         "newFailed" : false,
@@ -797,13 +796,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithNumbersCardOwnerName",
-        "uid" : "46a717db6bd24fe5",
+        "uid" : "92e88155d0c20fdf",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817510923,
-          "stop" : 1667817532596,
-          "duration" : 21673
+          "start" : 1668939802204,
+          "stop" : 1668939823641,
+          "duration" : 21437
         },
         "flaky" : false,
         "newFailed" : false,
@@ -814,13 +813,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithLessMinLengthCardOwnerName",
-        "uid" : "d2f89c5e1c1faf06",
+        "uid" : "150befcca75a42b5",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817533865,
-          "stop" : 1667817555371,
-          "duration" : 21506
+          "start" : 1668939825273,
+          "stop" : 1668939846834,
+          "duration" : 21561
         },
         "flaky" : false,
         "newFailed" : false,
@@ -831,13 +830,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionMinLengthCardOwnerName",
-        "uid" : "6de531b9171baa98",
+        "uid" : "a94ccf948569daef",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
-        "status" : "failed",
+        "status" : "passed",
         "time" : {
-          "start" : 1667817556861,
-          "stop" : 1667817584358,
-          "duration" : 27497
+          "start" : 1668939848302,
+          "stop" : 1668939867062,
+          "duration" : 18760
         },
         "flaky" : false,
         "newFailed" : false,
@@ -848,13 +847,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldNotSuccessTransactionWithPaymentCard",
-        "uid" : "fec6011b8807ca94",
+        "uid" : "2c5e25699808e99f",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817585857,
-          "stop" : 1667817597161,
-          "duration" : 11304
+          "start" : 1668939868266,
+          "stop" : 1668939879814,
+          "duration" : 11548
         },
         "flaky" : false,
         "newFailed" : false,
@@ -865,13 +864,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithEmptyMonthField",
-        "uid" : "b16fb4f81069494f",
+        "uid" : "70d4e8270a5b6896",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817598194,
-          "stop" : 1667817615335,
-          "duration" : 17141
+          "start" : 1668939881106,
+          "stop" : 1668939898347,
+          "duration" : 17241
         },
         "flaky" : false,
         "newFailed" : false,
@@ -882,13 +881,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldNotShowMessAfterEmptyAllField",
-        "uid" : "10ef5e101e364849",
+        "uid" : "404ee7c6d7b3bbd0",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817616910,
-          "stop" : 1667817629977,
-          "duration" : 13067
+          "start" : 1668939899522,
+          "stop" : 1668939929540,
+          "duration" : 30018
         },
         "flaky" : false,
         "newFailed" : false,
@@ -899,13 +898,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithPaymentCard",
-        "uid" : "b7f932e155483792",
+        "uid" : "1491b52b87b98038",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817630955,
-          "stop" : 1667817651982,
-          "duration" : 21027
+          "start" : 1668939931238,
+          "stop" : 1668939950169,
+          "duration" : 18931
         },
         "flaky" : false,
         "newFailed" : false,
@@ -916,13 +915,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldDeclineWithRandomPaymentCard",
-        "uid" : "8b2c3c4bee023b16",
+        "uid" : "90a67b34be35e9be",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817653063,
-          "stop" : 1667817661352,
-          "duration" : 8289
+          "start" : 1668939951311,
+          "stop" : 1668939955961,
+          "duration" : 4650
         },
         "flaky" : false,
         "newFailed" : false,
@@ -933,13 +932,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithSpecCharactersCardOwnerName",
-        "uid" : "8c5df0e5f21d9d45",
+        "uid" : "580b2532e7a2d1be",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817662399,
-          "stop" : 1667817684262,
-          "duration" : 21863
+          "start" : 1668939957454,
+          "stop" : 1668939962783,
+          "duration" : 5329
         },
         "flaky" : false,
         "newFailed" : false,
@@ -950,13 +949,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithZeroZeroMonth",
-        "uid" : "3008665ad923ac57",
+        "uid" : "a2df415aff492b86",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817685878,
-          "stop" : 1667817707504,
-          "duration" : 21626
+          "start" : 1668939964255,
+          "stop" : 1668939985937,
+          "duration" : 21682
         },
         "flaky" : false,
         "newFailed" : false,
@@ -967,13 +966,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithEmptyCardOwnerField",
-        "uid" : "2f524bb4748e348b",
+        "uid" : "8e5b205278ca8505",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817708923,
-          "stop" : 1667817726081,
-          "duration" : 17158
+          "start" : 1668939987263,
+          "stop" : 1668940004519,
+          "duration" : 17256
         },
         "flaky" : false,
         "newFailed" : false,
@@ -984,13 +983,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithMaxAllowedDate",
-        "uid" : "7d5c4fc12a193bd",
+        "uid" : "609863ef81314e1c",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817727232,
-          "stop" : 1667817752027,
-          "duration" : 24795
+          "start" : 1668940006232,
+          "stop" : 1668940031588,
+          "duration" : 25356
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1001,13 +1000,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithEmptyYearField",
-        "uid" : "cd850a2a86633c40",
+        "uid" : "146b830c72bd9f8d",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817753010,
-          "stop" : 1667817770079,
-          "duration" : 17069
+          "start" : 1668940033281,
+          "stop" : 1668940034804,
+          "duration" : 1523
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1018,13 +1017,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldSuccessTransactionWithMinAllowedDate",
-        "uid" : "a9afaa2cde769ee9",
+        "uid" : "d37fea510fed41e7",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817771124,
-          "stop" : 1667817774321,
-          "duration" : 3197
+          "start" : 1668940036050,
+          "stop" : 1668940040547,
+          "duration" : 4497
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1035,13 +1034,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithExpiredCardForMonth",
-        "uid" : "426468b9ad25e34f",
+        "uid" : "a5175d66f66a9571",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "failed",
         "time" : {
-          "start" : 1667817775319,
-          "stop" : 1667817780705,
-          "duration" : 5386
+          "start" : 1668940042426,
+          "stop" : 1668940064068,
+          "duration" : 21642
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1052,13 +1051,13 @@
         "parameters" : [ ]
       }, {
         "name" : "shouldShowMessWithEmptyCvcField",
-        "uid" : "8ba56f228b3468a6",
+        "uid" : "ca6c2c269e5c74b3",
         "parentUid" : "c1680f8634f18391ab552f3b606f3906",
         "status" : "passed",
         "time" : {
-          "start" : 1667817781908,
-          "stop" : 1667817799038,
-          "duration" : 17130
+          "start" : 1668940065308,
+          "stop" : 1668940082532,
+          "duration" : 17224
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1071,5 +1070,6 @@
       "uid" : "c1680f8634f18391ab552f3b606f3906"
     } ],
     "uid" : "ru.netology.tests"
-  } ]
+  } ],
+  "name" : "packages"
 }

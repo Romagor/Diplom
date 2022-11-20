@@ -9,32 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8c5df0e5f21d9d45",
+      "uid" : "580b2532e7a2d1be",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817667503.20.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817667503.20.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939962417.21.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939962417.21.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817662399,
-        "stop" : 1667817684262,
-        "duration" : 21863
-      }
-    } ]
-  },
-  "41f10dd89fc139972b6f3f18f21f8706" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "a9afaa2cde769ee9",
-      "status" : "passed",
-      "time" : {
-        "start" : 1667817771124,
-        "stop" : 1667817774321,
-        "duration" : 3197
+        "start" : 1668939957454,
+        "stop" : 1668939962783,
+        "duration" : 5329
       }
     } ]
   },
@@ -48,12 +29,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8b2c3c4bee023b16",
+      "uid" : "90a67b34be35e9be",
       "status" : "passed",
       "time" : {
-        "start" : 1667817653063,
-        "stop" : 1667817661352,
-        "duration" : 8289
+        "start" : 1668939951311,
+        "stop" : 1668939955961,
+        "duration" : 4650
+      }
+    } ]
+  },
+  "41f10dd89fc139972b6f3f18f21f8706" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d37fea510fed41e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668940036050,
+        "stop" : 1668940040547,
+        "duration" : 4497
       }
     } ]
   },
@@ -67,13 +67,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4c09b2c45470fcbc",
+      "uid" : "3e1ba0129129acb",
       "status" : "failed",
-      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817422766.13.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817422766.13.html\r\nTimeout: 10 s.",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939747469.15.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939747469.15.html\r\nTimeout: 10 s.",
       "time" : {
-        "start" : 1667817411881,
-        "stop" : 1667817439323,
-        "duration" : 27442
+        "start" : 1668939736305,
+        "stop" : 1668939747913,
+        "duration" : 11608
       }
     } ]
   },
@@ -87,12 +87,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8ba56f228b3468a6",
+      "uid" : "ca6c2c269e5c74b3",
       "status" : "passed",
       "time" : {
-        "start" : 1667817781908,
-        "stop" : 1667817799038,
-        "duration" : 17130
+        "start" : 1668940065308,
+        "stop" : 1668940082532,
+        "duration" : 17224
       }
     } ]
   },
@@ -106,13 +106,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bd80b2d2d3e5f2c3",
+      "uid" : "96e65430d22cf2be",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817493064.14.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817493064.14.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939799963.16.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939799963.16.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817487992,
-        "stop" : 1667817509691,
-        "duration" : 21699
+        "start" : 1668939794701,
+        "stop" : 1668939800452,
+        "duration" : 5751
       }
     } ]
   },
@@ -126,13 +126,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "784ae680ee5dfbe6",
+      "uid" : "4590b5163fa9d79a",
       "status" : "failed",
-      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816879153.0.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816879153.0.html\r\nTimeout: 10 s.",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939371386.0.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939371386.0.html\r\nTimeout: 10 s.",
       "time" : {
-        "start" : 1667816866054,
-        "stop" : 1667816879635,
-        "duration" : 13581
+        "start" : 1668939359695,
+        "stop" : 1668939371901,
+        "duration" : 12206
       }
     } ]
   },
@@ -146,13 +146,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1328382629c8c1f3",
+      "uid" : "dd23d645bbc48e86",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817152465.8.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817152465.8.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939563908.10.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939563908.10.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817147266,
-        "stop" : 1667817169138,
-        "duration" : 21872
+        "start" : 1668939558862,
+        "stop" : 1668939564518,
+        "duration" : 5656
       }
     } ]
   },
@@ -166,12 +166,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "37255736b2911828",
+      "uid" : "ab48b218bc15d5ba",
       "status" : "passed",
       "time" : {
-        "start" : 1667817293181,
-        "stop" : 1667817293321,
-        "duration" : 140
+        "start" : 1668939352640,
+        "stop" : 1668939352745,
+        "duration" : 105
       }
     } ]
   },
@@ -185,12 +185,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "731b220157e7ea25",
+      "uid" : "810a39eb3793e7cb",
       "status" : "passed",
       "time" : {
-        "start" : 1667817193885,
-        "stop" : 1667817211004,
-        "duration" : 17119
+        "start" : 1668939573535,
+        "stop" : 1668939574712,
+        "duration" : 1177
       }
     } ]
   },
@@ -204,12 +204,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2fc2d0def7f7dd2e",
+      "uid" : "93556661be56987e",
       "status" : "passed",
       "time" : {
-        "start" : 1667817063987,
-        "stop" : 1667817068345,
-        "duration" : 4358
+        "start" : 1668939491487,
+        "stop" : 1668939501162,
+        "duration" : 9675
       }
     } ]
   },
@@ -223,13 +223,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ecb67b5e10f3b837",
+      "uid" : "61db79b10b6df30f",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817038492.4.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817038492.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939480958.5.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939480958.5.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817033080,
-        "stop" : 1667817055048,
-        "duration" : 21968
+        "start" : 1668939475701,
+        "stop" : 1668939481612,
+        "duration" : 5911
       }
     } ]
   },
@@ -243,12 +243,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1c2d8f0fdccfa0b3",
+      "uid" : "a64f9dfffd5e30ea",
       "status" : "passed",
       "time" : {
-        "start" : 1667817392974,
-        "stop" : 1667817410263,
-        "duration" : 17289
+        "start" : 1668939716722,
+        "stop" : 1668939733996,
+        "duration" : 17274
       }
     } ]
   },
@@ -262,13 +262,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d2f89c5e1c1faf06",
+      "uid" : "150befcca75a42b5",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817538670.16.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817538670.16.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939830298.18.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939830298.18.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817533865,
-        "stop" : 1667817555371,
-        "duration" : 21506
+        "start" : 1668939825273,
+        "stop" : 1668939846834,
+        "duration" : 21561
       }
     } ]
   },
@@ -282,13 +282,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ce220d0905aa9588",
+      "uid" : "1857439e128008c5",
       "status" : "failed",
-      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817306813.11.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817306813.11.html\r\nTimeout: 10 s.",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939681050.13.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939681050.13.html\r\nTimeout: 10 s.",
       "time" : {
-        "start" : 1667817295349,
-        "stop" : 1667817323392,
-        "duration" : 28043
+        "start" : 1668939669487,
+        "stop" : 1668939681479,
+        "duration" : 11992
       }
     } ]
   },
@@ -302,12 +302,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8239b7a2a24679ab",
+      "uid" : "b111c2cc6b84a2c9",
       "status" : "passed",
       "time" : {
-        "start" : 1667816999112,
-        "stop" : 1667817005704,
-        "duration" : 6592
+        "start" : 1668939433406,
+        "stop" : 1668939444965,
+        "duration" : 11559
       }
     } ]
   },
@@ -321,12 +321,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d43710a5e6331426",
+      "uid" : "2793cd6c70e0ade1",
       "status" : "passed",
       "time" : {
-        "start" : 1667817459104,
-        "stop" : 1667817468316,
-        "duration" : 9212
+        "start" : 1668939767388,
+        "stop" : 1668939774460,
+        "duration" : 7072
       }
     } ]
   },
@@ -340,13 +340,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3008665ad923ac57",
+      "uid" : "a2df415aff492b86",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817690827.21.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817690827.21.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Месяц']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939969359.22.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939969359.22.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Месяц']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817685878,
-        "stop" : 1667817707504,
-        "duration" : 21626
+        "start" : 1668939964255,
+        "stop" : 1668939985937,
+        "duration" : 21682
       }
     } ]
   },
@@ -360,12 +360,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8a696d5d07ca8667",
+      "uid" : "ea555d279eeee845",
       "status" : "passed",
       "time" : {
-        "start" : 1667817271975,
-        "stop" : 1667817289260,
-        "duration" : 17285
+        "start" : 1668939651248,
+        "stop" : 1668939668444,
+        "duration" : 17196
       }
     } ]
   },
@@ -379,13 +379,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "10ef5e101e364849",
+      "uid" : "404ee7c6d7b3bbd0",
       "status" : "failed",
-      "statusDetails" : "Element should not be visible {By.xpath: //span[text()='Номер карты']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817629497.19.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817629497.19.html\r\nTimeout: 4 s.",
+      "statusDetails" : "Element should not be visible {By.xpath: //span[text()='Номер карты']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939912943.20.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939912943.20.html\r\nTimeout: 4 s.",
       "time" : {
-        "start" : 1667817616910,
-        "stop" : 1667817629977,
-        "duration" : 13067
+        "start" : 1668939899522,
+        "stop" : 1668939929540,
+        "duration" : 30018
       }
     } ]
   },
@@ -399,13 +399,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7b7c4cc65a1d88e6",
+      "uid" : "145f7ee0c36edba2",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816909711.1.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816909711.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939407937.2.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939407937.2.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667816904408,
-        "stop" : 1667816910241,
-        "duration" : 5833
+        "start" : 1668939402049,
+        "stop" : 1668939408630,
+        "duration" : 6581
       }
     } ]
   },
@@ -419,13 +419,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f3007f0c362f898f",
+      "uid" : "7734d3dd3b1fb942",
       "status" : "failed",
-      "statusDetails" : "expected: <2022-11-07 13:34> but was: <2022-11-07 10:34>",
+      "statusDetails" : "expected: <2022-11-20 13:15> but was: <2022-11-20 10:15>",
       "time" : {
-        "start" : 1667817293631,
-        "stop" : 1667817293738,
-        "duration" : 107
+        "start" : 1668939353053,
+        "stop" : 1668939353157,
+        "duration" : 104
       }
     } ]
   },
@@ -439,12 +439,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7cc953d388492d9b",
+      "uid" : "689a8b8535971022",
       "status" : "passed",
       "time" : {
-        "start" : 1667817007105,
-        "stop" : 1667817024451,
-        "duration" : 17346
+        "start" : 1668939446728,
+        "stop" : 1668939465794,
+        "duration" : 19066
       }
     } ]
   },
@@ -458,13 +458,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "793a093adca0f6e3",
+      "uid" : "6221fac393362f7a",
       "status" : "failed",
-      "statusDetails" : "Element should have text 'Неверно указан срок действия карты' {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817254139.10.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817254139.10.html\r\nTimeout: 4 s.",
+      "statusDetails" : "Element should have text 'Неверно указан срок действия карты' {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939633190.12.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939633190.12.html\r\nTimeout: 4 s.",
       "time" : {
-        "start" : 1667817249060,
-        "stop" : 1667817270720,
-        "duration" : 21660
+        "start" : 1668939628217,
+        "stop" : 1668939649697,
+        "duration" : 21480
       }
     } ]
   },
@@ -478,12 +478,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "75498069667164ff",
+      "uid" : "9ca789f781500354",
       "status" : "passed",
       "time" : {
-        "start" : 1667816931108,
-        "stop" : 1667816948841,
-        "duration" : 17733
+        "start" : 1668939413985,
+        "stop" : 1668939415922,
+        "duration" : 1937
       }
     } ]
   },
@@ -497,13 +497,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fec6011b8807ca94",
+      "uid" : "2c5e25699808e99f",
       "status" : "failed",
-      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Ошибка! Банк отказал в проведении операции.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817596742.18.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817596742.18.html\r\nTimeout: 10 s.",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Ошибка! Банк отказал в проведении операции.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939879408.19.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939879408.19.html\r\nTimeout: 10 s.",
       "time" : {
-        "start" : 1667817585857,
-        "stop" : 1667817597161,
-        "duration" : 11304
+        "start" : 1668939868266,
+        "stop" : 1668939879814,
+        "duration" : 11548
       }
     } ]
   },
@@ -517,12 +517,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2f524bb4748e348b",
+      "uid" : "8e5b205278ca8505",
       "status" : "passed",
       "time" : {
-        "start" : 1667817708923,
-        "stop" : 1667817726081,
-        "duration" : 17158
+        "start" : 1668939987263,
+        "stop" : 1668940004519,
+        "duration" : 17256
       }
     } ]
   },
@@ -536,13 +536,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "32dcdae71e7a1b72",
+      "uid" : "990aa13451cd7936",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817175770.9.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817175770.9.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Месяц']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939571630.11.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939571630.11.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Месяц']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817170364,
-        "stop" : 1667817192410,
-        "duration" : 22046
+        "start" : 1668939566419,
+        "stop" : 1668939572107,
+        "duration" : 5688
       }
     } ]
   },
@@ -556,13 +556,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6aee5a08909be4de",
+      "uid" : "6c894f5eb019aa8f",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817061661.5.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817061661.5.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939488783.6.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939488783.6.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817056866,
-        "stop" : 1667817062140,
-        "duration" : 5274
+        "start" : 1668939483447,
+        "stop" : 1668939489460,
+        "duration" : 6013
       }
     } ]
   },
@@ -576,12 +576,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "472f933ac86a3ecc",
+      "uid" : "8a9e4e1da9506a1f",
       "status" : "passed",
       "time" : {
-        "start" : 1667817441068,
-        "stop" : 1667817457902,
-        "duration" : 16834
+        "start" : 1668939749348,
+        "stop" : 1668939766492,
+        "duration" : 17144
       }
     } ]
   },
@@ -595,13 +595,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "41f3615cc157bb71",
+      "uid" : "4b0022e434fc1820",
       "status" : "failed",
-      "statusDetails" : "expected: <2022-11-07 13:34> but was: <2022-11-07 10:34>",
+      "statusDetails" : "expected: <2022-11-20 13:15> but was: <2022-11-20 10:15>",
       "time" : {
-        "start" : 1667817293062,
-        "stop" : 1667817293177,
-        "duration" : 115
+        "start" : 1668939352454,
+        "stop" : 1668939352632,
+        "duration" : 178
       }
     } ]
   },
@@ -615,12 +615,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "380252cae435ae61",
+      "uid" : "ac90013a2b778940",
       "status" : "passed",
       "time" : {
-        "start" : 1667817212120,
-        "stop" : 1667817217012,
-        "duration" : 4892
+        "start" : 1668939575933,
+        "stop" : 1668939600125,
+        "duration" : 24192
       }
     } ]
   },
@@ -634,13 +634,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e316419626657a08",
+      "uid" : "220165b967f0d324",
       "status" : "failed",
-      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816962400.2.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667816962400.2.html\r\nTimeout: 10 s.",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939428934.3.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939428934.3.html\r\nTimeout: 10 s.",
       "time" : {
-        "start" : 1667816951069,
-        "stop" : 1667816978942,
-        "duration" : 27873
+        "start" : 1668939417493,
+        "stop" : 1668939429511,
+        "duration" : 12018
       }
     } ]
   },
@@ -654,12 +654,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d3b525ca5539f31f",
+      "uid" : "df21ba0961764217",
       "status" : "passed",
       "time" : {
-        "start" : 1667816882381,
-        "stop" : 1667816893046,
-        "duration" : 10665
+        "start" : 1668939373521,
+        "stop" : 1668939385167,
+        "duration" : 11646
       }
     } ]
   },
@@ -673,13 +673,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6845dcd810a2390f",
+      "uid" : "4aa444b8632159e9",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817355962.12.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817355962.12.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939694846.14.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939694846.14.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817350875,
-        "stop" : 1667817372625,
-        "duration" : 21750
+        "start" : 1668939689409,
+        "stop" : 1668939695450,
+        "duration" : 6041
       }
     } ]
   },
@@ -693,32 +693,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ac7101e30754f54d",
+      "uid" : "95e697d05edc66f",
       "status" : "failed",
-      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Ошибка! Банк отказал в проведении операции.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817145214.7.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817145214.7.html\r\nTimeout: 10 s.",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Ошибка! Банк отказал в проведении операции.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939556940.9.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939556940.9.html\r\nTimeout: 10 s.",
       "time" : {
-        "start" : 1667817134229,
-        "stop" : 1667817145657,
-        "duration" : 11428
-      }
-    } ]
-  },
-  "2865fba673b537766c5dfc34d85a44bb" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "f99ce5cec006ee0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1667816912028,
-        "stop" : 1667816929483,
-        "duration" : 17455
+        "start" : 1668939545795,
+        "stop" : 1668939557353,
+        "duration" : 11558
       }
     } ]
   },
@@ -732,16 +713,16 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ba476f4594220bcb",
+      "uid" : "9ec74c00babf20a1",
       "status" : "passed",
       "time" : {
-        "start" : 1667816980502,
-        "stop" : 1667816997530,
-        "duration" : 17028
+        "start" : 1668939431435,
+        "stop" : 1668939432197,
+        "duration" : 762
       }
     } ]
   },
-  "c11cb1bc271e6cf7c7c644272dbdb83a" : {
+  "2865fba673b537766c5dfc34d85a44bb" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -751,12 +732,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7417d7aef4c3faee",
+      "uid" : "6e0c3bee60ef8282",
       "status" : "passed",
       "time" : {
-        "start" : 1667817069867,
-        "stop" : 1667817096419,
-        "duration" : 26552
+        "start" : 1668939410496,
+        "stop" : 1668939412587,
+        "duration" : 2091
+      }
+    } ]
+  },
+  "c11cb1bc271e6cf7c7c644272dbdb83a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2b5f29e9187a20e",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939514075.7.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939514075.7.html\r\nTimeout: 10 s.",
+      "time" : {
+        "start" : 1668939502676,
+        "stop" : 1668939514643,
+        "duration" : 11967
       }
     } ]
   },
@@ -770,12 +771,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b16fb4f81069494f",
+      "uid" : "70d4e8270a5b6896",
       "status" : "passed",
       "time" : {
-        "start" : 1667817598194,
-        "stop" : 1667817615335,
-        "duration" : 17141
+        "start" : 1668939881106,
+        "stop" : 1668939898347,
+        "duration" : 17241
       }
     } ]
   },
@@ -789,32 +790,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cd850a2a86633c40",
+      "uid" : "146b830c72bd9f8d",
       "status" : "passed",
       "time" : {
-        "start" : 1667817753010,
-        "stop" : 1667817770079,
-        "duration" : 17069
+        "start" : 1668940033281,
+        "stop" : 1668940034804,
+        "duration" : 1523
       }
     } ]
   },
   "32bd54c68d153415b6fa0108bf53c33c" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6de531b9171baa98",
-      "status" : "failed",
-      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\">Операция одобрена Банком.</div>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817567725.17.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817567725.17.html\r\nTimeout: 10 s.",
+      "uid" : "a94ccf948569daef",
+      "status" : "passed",
       "time" : {
-        "start" : 1667817556861,
-        "stop" : 1667817584358,
-        "duration" : 27497
+        "start" : 1668939848302,
+        "stop" : 1668939867062,
+        "duration" : 18760
       }
     } ]
   },
@@ -828,13 +828,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "426468b9ad25e34f",
+      "uid" : "a5175d66f66a9571",
       "status" : "failed",
-      "statusDetails" : "Element should have text 'Неверно указан срок действия карты' {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817780289.22.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817780289.22.html\r\nTimeout: 4 s.",
+      "statusDetails" : "Element should have text 'Неверно указан срок действия карты' {By.xpath: //span[text()='Месяц']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668940047508.23.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668940047508.23.html\r\nTimeout: 4 s.",
       "time" : {
-        "start" : 1667817775319,
-        "stop" : 1667817780705,
-        "duration" : 5386
+        "start" : 1668940042426,
+        "stop" : 1668940064068,
+        "duration" : 21642
       }
     } ]
   },
@@ -848,12 +848,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7d5c4fc12a193bd",
+      "uid" : "609863ef81314e1c",
       "status" : "passed",
       "time" : {
-        "start" : 1667817727232,
-        "stop" : 1667817752027,
-        "duration" : 24795
+        "start" : 1668940006232,
+        "stop" : 1668940031588,
+        "duration" : 25356
       }
     } ]
   },
@@ -867,51 +867,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "da32098309aad31a",
+      "uid" : "cfafea5307a7da2c",
       "status" : "passed",
       "time" : {
-        "start" : 1667817218183,
-        "stop" : 1667817219311,
-        "duration" : 1128
-      }
-    } ]
-  },
-  "dc4f9594db2ad30ba9ddf71022a70260" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d8ce904655783433",
-      "status" : "passed",
-      "time" : {
-        "start" : 1667817373942,
-        "stop" : 1667817391367,
-        "duration" : 17425
-      }
-    } ]
-  },
-  "637f53046e0ebf65c8a98e7996f0adaa" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "5663f57c8307dce3",
-      "status" : "failed",
-      "statusDetails" : "Element should not be visible {By.xpath: //span[text()='Номер карты']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817131521.6.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817131521.6.html\r\nTimeout: 4 s.",
-      "time" : {
-        "start" : 1667817117004,
-        "stop" : 1667817132279,
-        "duration" : 15275
+        "start" : 1668939601420,
+        "stop" : 1668939618649,
+        "duration" : 17229
       }
     } ]
   },
@@ -925,12 +886,51 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8d437f9621bfb2ea",
+      "uid" : "e1a315676f9fd89c",
       "status" : "passed",
       "time" : {
-        "start" : 1667817293852,
-        "stop" : 1667817293980,
-        "duration" : 128
+        "start" : 1668939353273,
+        "stop" : 1668939353404,
+        "duration" : 131
+      }
+    } ]
+  },
+  "dc4f9594db2ad30ba9ddf71022a70260" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ff3401425e16a2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668939697049,
+        "stop" : 1668939714628,
+        "duration" : 17579
+      }
+    } ]
+  },
+  "637f53046e0ebf65c8a98e7996f0adaa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f8e183d4021b69fd",
+      "status" : "failed",
+      "statusDetails" : "Element should not be visible {By.xpath: //span[text()='Номер карты']/following-sibling::span[@class='input__sub']}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: visible:true\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939543948.8.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939543948.8.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1668939535284,
+        "stop" : 1668939544463,
+        "duration" : 9179
       }
     } ]
   },
@@ -944,13 +944,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "af940df0cbe7c43",
+      "uid" : "7027c9952d6e140a",
       "status" : "failed",
-      "statusDetails" : "expected: <2022-11-07 13:34> but was: <2022-11-07 10:34>",
+      "statusDetails" : "expected: <2022-11-20 13:15> but was: <2022-11-20 10:15>",
       "time" : {
-        "start" : 1667817293541,
-        "stop" : 1667817293626,
-        "duration" : 85
+        "start" : 1668939352960,
+        "stop" : 1668939353048,
+        "duration" : 88
       }
     } ]
   },
@@ -964,12 +964,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b7f932e155483792",
+      "uid" : "1491b52b87b98038",
       "status" : "passed",
       "time" : {
-        "start" : 1667817630955,
-        "stop" : 1667817651982,
-        "duration" : 21027
+        "start" : 1668939931238,
+        "stop" : 1668939950169,
+        "duration" : 18931
       }
     } ]
   },
@@ -983,12 +983,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "84688374615db",
+      "uid" : "7842d590677bf44e",
       "status" : "passed",
       "time" : {
-        "start" : 1667817220279,
-        "stop" : 1667817247626,
-        "duration" : 27347
+        "start" : 1668939620349,
+        "stop" : 1668939626540,
+        "duration" : 6191
       }
     } ]
   },
@@ -1002,12 +1002,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3e74b0e4d5347f9d",
+      "uid" : "c519fa741131d029",
       "status" : "passed",
       "time" : {
-        "start" : 1667817325116,
-        "stop" : 1667817349068,
-        "duration" : 23952
+        "start" : 1668939682888,
+        "stop" : 1668939688089,
+        "duration" : 5201
       }
     } ]
   },
@@ -1021,13 +1021,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "46a717db6bd24fe5",
+      "uid" : "92e88155d0c20fdf",
       "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817515974.15.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817515974.15.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939807065.17.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939807065.17.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
       "time" : {
-        "start" : 1667817510923,
-        "stop" : 1667817532596,
-        "duration" : 21673
+        "start" : 1668939802204,
+        "stop" : 1668939823641,
+        "duration" : 21437
       }
     } ]
   },
@@ -1041,12 +1041,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "67766d9a9ab33778",
+      "uid" : "c0249c8e131a1d0c",
       "status" : "passed",
       "time" : {
-        "start" : 1667817293462,
-        "stop" : 1667817293538,
-        "duration" : 76
+        "start" : 1668939352852,
+        "stop" : 1668939352955,
+        "duration" : 103
       }
     } ]
   },
@@ -1060,31 +1060,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "df849ae484e4408b",
+      "uid" : "3957aa158dd846d9",
       "status" : "passed",
       "time" : {
-        "start" : 1667817098093,
-        "stop" : 1667817115427,
-        "duration" : 17334
-      }
-    } ]
-  },
-  "51c194a92b3f015d07150a823944b8f2" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "4fcbf9e2ee21ef52",
-      "status" : "passed",
-      "time" : {
-        "start" : 1667817293743,
-        "stop" : 1667817293849,
-        "duration" : 106
+        "start" : 1668939516285,
+        "stop" : 1668939533733,
+        "duration" : 17448
       }
     } ]
   },
@@ -1098,33 +1079,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4b352f5971ac2a6d",
+      "uid" : "4eb4dafe5c1200d9",
       "status" : "failed",
-      "statusDetails" : "expected: <2022-11-07 13:34> but was: <2022-11-07 10:34>",
+      "statusDetails" : "expected: <2022-11-20 13:15> but was: <2022-11-20 10:15>",
       "time" : {
-        "start" : 1667817293325,
-        "stop" : 1667817293458,
-        "duration" : 133
+        "start" : 1668939352750,
+        "stop" : 1668939352845,
+        "duration" : 95
       }
     } ]
   },
-  "4b7c41642b07c587e741e4fb7bc05b0" : {
+  "51c194a92b3f015d07150a823944b8f2" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c549b8bc2b92c1ac",
-      "status" : "failed",
-      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817031025.3.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplomCopy2/build/reports/tests/1667817031025.3.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "uid" : "c7773e82b7cdc71d",
+      "status" : "passed",
       "time" : {
-        "start" : 1667817025923,
-        "stop" : 1667817031550,
-        "duration" : 5627
+        "start" : 1668939353162,
+        "stop" : 1668939353268,
+        "duration" : 106
       }
     } ]
   },
@@ -1138,13 +1118,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ce455945261c2f4e",
+      "uid" : "ddc2588a0fe4cab0",
       "status" : "failed",
-      "statusDetails" : "expected: <8755110d-5aee-4003-9701-36c222982b1a> but was: <null>",
+      "statusDetails" : "expected: <82946fd2-20b7-421a-9d78-58e524763d90> but was: <null>",
       "time" : {
-        "start" : 1667817289285,
-        "stop" : 1667817292893,
-        "duration" : 3608
+        "start" : 1668939347859,
+        "stop" : 1668939351981,
+        "duration" : 4122
+      }
+    } ]
+  },
+  "4b7c41642b07c587e741e4fb7bc05b0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d724b8aabba80bb",
+      "status" : "failed",
+      "statusDetails" : "Element not found {By.xpath: //span[text()='Владелец']/following-sibling::span[@class='input__sub']}\r\nExpected: visible\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939472756.4.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939472756.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[text()='Владелец']/following-sibling::span[@class='input__sub']\"}",
+      "time" : {
+        "start" : 1668939467517,
+        "stop" : 1668939473544,
+        "duration" : 6027
       }
     } ]
   },
@@ -1158,12 +1158,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "59596a6f50aa9fb8",
+      "uid" : "7406a682eb8caf5e",
       "status" : "passed",
       "time" : {
-        "start" : 1667817292897,
-        "stop" : 1667817293058,
-        "duration" : 161
+        "start" : 1668939352106,
+        "stop" : 1668939352449,
+        "duration" : 343
       }
     } ]
   },
@@ -1177,31 +1177,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d45d586c1cd5fe31",
+      "uid" : "4261596c825abe1d",
       "status" : "passed",
       "time" : {
-        "start" : 1667817469633,
-        "stop" : 1667817486891,
-        "duration" : 17258
+        "start" : 1668939776190,
+        "stop" : 1668939793357,
+        "duration" : 17167
       }
     } ]
   },
   "590a432db756cb4c5aee0c86ad3e65a3" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4f8b5e074c9cfb4e",
-      "status" : "passed",
+      "uid" : "ef6156882bf88a4b",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {By.xpath: //div[text()='Операция одобрена Банком.']}\r\nElement: '<div class=\"notification__content\" displayed:false></div>'\r\nActual value: visible:false\r\nScreenshot: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939398255.1.png\r\nPage source: file:/C:/netology/AQAJAVAHW/diplom/build/reports/tests/1668939398255.1.html\r\nTimeout: 10 s.",
       "time" : {
-        "start" : 1667816895091,
-        "stop" : 1667816902787,
-        "duration" : 7696
+        "start" : 1668939386712,
+        "stop" : 1668939399829,
+        "duration" : 13117
       }
     } ]
   }
