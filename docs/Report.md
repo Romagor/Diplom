@@ -15,14 +15,14 @@
 > * Успешных кейсов 53,22%
 > * Неуспешных кейсов 46,78%
 
-![img](img/reports/report1.png)
+![img](img/reports/report 1.png)
 
 ### с БД PostgreSQL
 
 > * Успешных кейсов 61,29%
 > * Неуспешных кейсов 38,71%
 
-![img](img/reports/report2.png)
+![img](img/reports/report 2.png)
 
 
 ## Общие рекомендации
