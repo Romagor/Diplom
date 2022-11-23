@@ -15,14 +15,14 @@
 > * Успешных кейсов 53,22%
 > * Неуспешных кейсов 46,78%
 
-![img](img/report 1.png)
+[![img](img/report 1.png)](https://raw.githubusercontent.com/Romagor/Diplom/main/img/reports/report%201.png)
 
 ### с БД PostgreSQL
 
 > * Успешных кейсов 61,29%
 > * Неуспешных кейсов 38,71%
 
-![img](img/report 2.png)
+[![img](img/report 2.png)](https://raw.githubusercontent.com/Romagor/Diplom/main/img/reports/report%202.png)
 
 
 ## Общие рекомендации
