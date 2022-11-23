@@ -8,7 +8,7 @@
 1. Склонировать репозиторий: 
 `git clone https://github.com/Romagor/Diplom.git`
 
-1. Перейти в папку `Diplom`
+1. Перейти в папку `diplom`
 
 1. Запустить контейнер Docker командой в консоли:
 >`docker-compose up`
@@ -24,10 +24,10 @@
 5. Запустить авто-тесты команой в консоли 
 
 *для MySQL*:
-> ` ./gradlew test "-Ddb.url=jdbc:mysql://localhost:3306/app" "-Ddb.username=app" "-Ddb.password=pass"`
+> ` ./gradlew clean test "-Ddb.url=jdbc:mysql://localhost:3306/app" "-Ddb.username=app" "-Ddb.password=pass"`
 
 *для PostgreSQL*:
-> `./gradlew test "-Ddb.url=jdbc:postgresql://localhost:5432/app" "-Ddb.username=app" "-Ddb.password=pass"`
+> `./gradlew clean test "-Ddb.url=jdbc:postgresql://localhost:5432/app" "-Ddb.username=app" "-Ddb.password=pass"`
 
 6. Формирование Allure отчёта
 > `./gradlew allureReport` - формирование отчета

@@ -1,0 +1,270 @@
+{
+  "uid" : "324628c086a956fb",
+  "name" : "Should decline credit card with random test card",
+  "fullName" : "ru.netology.tests.CreditTest.shouldDeclineWithRandomCreditCard",
+  "historyId" : "f54044265d83c818c7359a2be030be66",
+  "time" : {
+    "start" : 1669192094739,
+    "stop" : 1669192103417,
+    "duration" : 8678
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUpAll",
+    "time" : {
+      "start" : 1669191878062,
+      "stop" : 1669191878072,
+      "duration" : 10
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setUP",
+    "time" : {
+      "start" : 1669192094739,
+      "stop" : 1669192094739,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"By.xpath: //span[text()='Купить в кредит']\") click()",
+      "time" : {
+        "start" : 1669192094740,
+        "stop" : 1669192095021,
+        "duration" : 281
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //h3[text()='Кредит по данным карты']\") should be(visible)",
+      "time" : {
+        "start" : 1669192095021,
+        "stop" : 1669192095071,
+        "duration" : 50
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Номер карты']/following-sibling::span/input\") set value(8033625214824370)",
+      "time" : {
+        "start" : 1669192095072,
+        "stop" : 1669192095337,
+        "duration" : 265
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Месяц']/following-sibling::span/input\") set value(11)",
+      "time" : {
+        "start" : 1669192095337,
+        "stop" : 1669192095458,
+        "duration" : 121
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Год']/following-sibling::span/input\") set value(23)",
+      "time" : {
+        "start" : 1669192095458,
+        "stop" : 1669192095556,
+        "duration" : 98
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Владелец']/following-sibling::span/input\") set value(Dr. Claud Buckridge)",
+      "time" : {
+        "start" : 1669192095556,
+        "stop" : 1669192095795,
+        "duration" : 239
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='CVC/CVV']/following-sibling::span/input\") set value(528)",
+      "time" : {
+        "start" : 1669192095795,
+        "stop" : 1669192095918,
+        "duration" : 123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //span[text()='Продолжить']\") click()",
+      "time" : {
+        "start" : 1669192095919,
+        "stop" : 1669192096053,
+        "duration" : 134
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "$(\"By.xpath: //div[text()='Ошибка! Банк отказал в проведении операции.']\") should be([visible, 10 s.])",
+      "time" : {
+        "start" : 1669192096053,
+        "stop" : 1669192103278,
+        "duration" : 7225
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 9
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1669192103279,
+      "stop" : 1669192103416,
+      "duration" : 137
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "tearDownAll",
+    "time" : {
+      "start" : 1669192272821,
+      "stop" : 1669192272822,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:ru.netology.tests.CreditTest]/[method:shouldDeclineWithRandomCreditCard()]"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-KRP3OJ30"
+  }, {
+    "name" : "thread",
+    "value" : "7900@LAPTOP-KRP3OJ30.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.tests.CreditTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.tests.CreditTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldDeclineWithRandomCreditCard"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.tests.CreditTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "324628c086a956fb.json",
+  "parameterValues" : [ ]
+}

@@ -1,620 +1,620 @@
 [ {
-  "uid" : "c7773e82b7cdc71d",
-  "name" : "Should added payment data to database with DECLINED through API",
-  "time" : {
-    "start" : 1668939353162,
-    "stop" : 1668939353268,
-    "duration" : 106
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2793cd6c70e0ade1",
-  "name" : "Should approved payment card with approved test card and min date next month)",
-  "time" : {
-    "start" : 1668939767388,
-    "stop" : 1668939774460,
-    "duration" : 7072
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3957aa158dd846d9",
-  "name" : "Should to show red warning with empty month field",
-  "time" : {
-    "start" : 1668939516285,
-    "stop" : 1668939533733,
-    "duration" : 17448
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6c894f5eb019aa8f",
-  "name" : "Should o show red warning with less min length card owner's name by one char",
-  "time" : {
-    "start" : 1668939483447,
-    "stop" : 1668939489460,
-    "duration" : 6013
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "9ca789f781500354",
-  "name" : "Should to show red warning with empty card number field",
-  "time" : {
-    "start" : 1668939413985,
-    "stop" : 1668939415922,
-    "duration" : 1937
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "93556661be56987e",
-  "name" : "Should decline credit card with random test card",
-  "time" : {
-    "start" : 1668939491487,
-    "stop" : 1668939501162,
-    "duration" : 9675
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "150befcca75a42b5",
-  "name" : "Should o show red warning with less min length card owner's name by one char",
-  "time" : {
-    "start" : 1668939825273,
-    "stop" : 1668939846834,
-    "duration" : 21561
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "dd23d645bbc48e86",
-  "name" : "Should o show red warning with card owner's name with special characters",
-  "time" : {
-    "start" : 1668939558862,
-    "stop" : 1668939564518,
-    "duration" : 5656
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "404ee7c6d7b3bbd0",
-  "name" : "Should not to show red warning with empty all field after filled field",
-  "time" : {
-    "start" : 1668939899522,
-    "stop" : 1668939929540,
-    "duration" : 30018
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "90a67b34be35e9be",
-  "name" : "Should decline payment card with random test card",
-  "time" : {
-    "start" : 1668939951311,
-    "stop" : 1668939955961,
-    "duration" : 4650
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6e0c3bee60ef8282",
-  "name" : "Should to show red warning with invalid month data",
-  "time" : {
-    "start" : 1668939410496,
-    "stop" : 1668939412587,
-    "duration" : 2091
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4590b5163fa9d79a",
-  "name" : "Should approved credit card with approved test card and max date minus 1 month",
-  "time" : {
-    "start" : 1668939359695,
-    "stop" : 1668939371901,
-    "duration" : 12206
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "b111c2cc6b84a2c9",
-  "name" : "Should approved credit card with approved test card and min date next month)",
-  "time" : {
-    "start" : 1668939433406,
-    "stop" : 1668939444965,
-    "duration" : 11559
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "810a39eb3793e7cb",
-  "name" : "Should to show red warning with empty card owner field",
-  "time" : {
-    "start" : 1668939573535,
-    "stop" : 1668939574712,
-    "duration" : 1177
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "96e65430d22cf2be",
+  "uid" : "cd8be932959f8084",
   "name" : "Should o show red warning with card owner's name is written in Cyrillic",
   "time" : {
-    "start" : 1668939794701,
-    "stop" : 1668939800452,
-    "duration" : 5751
+    "start" : 1669192391754,
+    "stop" : 1669192413670,
+    "duration" : 21916
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "990aa13451cd7936",
+  "uid" : "655c7952b8413aef",
   "name" : "Should to show red warning with 00 month",
   "time" : {
-    "start" : 1668939566419,
-    "stop" : 1668939572107,
-    "duration" : 5688
+    "start" : 1669192616675,
+    "stop" : 1669192622529,
+    "duration" : 5854
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "1491b52b87b98038",
-  "name" : "Should approved payment card with approved test card",
+  "uid" : "630d898fc682698",
+  "name" : "Should o show red warning with more max length card owner's name by one char",
   "time" : {
-    "start" : 1668939931238,
-    "stop" : 1668939950169,
-    "duration" : 18931
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "609863ef81314e1c",
-  "name" : "Should approved payment card with approved test card and max date",
-  "time" : {
-    "start" : 1668940006232,
-    "stop" : 1668940031588,
-    "duration" : 25356
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f8e183d4021b69fd",
-  "name" : "Should not to show red warning with empty all field after filled field",
-  "time" : {
-    "start" : 1668939535284,
-    "stop" : 1668939544463,
-    "duration" : 9179
+    "start" : 1669192301578,
+    "stop" : 1669192307941,
+    "duration" : 6363
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "4261596c825abe1d",
-  "name" : "Should to show red warning with expired card for year",
-  "time" : {
-    "start" : 1668939776190,
-    "stop" : 1668939793357,
-    "duration" : 17167
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a2b5f29e9187a20e",
-  "name" : "Should approved credit card with approved test card and min length card owner's name",
-  "time" : {
-    "start" : 1668939502676,
-    "stop" : 1668939514643,
-    "duration" : 11967
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "c519fa741131d029",
-  "name" : "Should approved payment card with approved test card and max length card owner's name",
-  "time" : {
-    "start" : 1668939682888,
-    "stop" : 1668939688089,
-    "duration" : 5201
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ef6156882bf88a4b",
-  "name" : "Should approved credit card with approved test card",
-  "time" : {
-    "start" : 1668939386712,
-    "stop" : 1668939399829,
-    "duration" : 13117
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "df21ba0961764217",
+  "uid" : "d63d688c825c549e",
   "name" : "Should credit payment card with approved test card and max length card owner's name",
   "time" : {
-    "start" : 1668939373521,
-    "stop" : 1668939385167,
-    "duration" : 11646
+    "start" : 1669191898819,
+    "stop" : 1669191906908,
+    "duration" : 8089
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "92e88155d0c20fdf",
-  "name" : "Should o show red warning with card owner's name with numbers",
-  "time" : {
-    "start" : 1668939802204,
-    "stop" : 1668939823641,
-    "duration" : 21437
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "95e697d05edc66f",
-  "name" : "Should decline credit card with declined test card",
-  "time" : {
-    "start" : 1668939545795,
-    "stop" : 1668939557353,
-    "duration" : 11558
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "4b0022e434fc1820",
-  "name" : "Should added correct created date in credit table with DECLINED card",
-  "time" : {
-    "start" : 1668939352454,
-    "stop" : 1668939352632,
-    "duration" : 178
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "8e5b205278ca8505",
-  "name" : "Should to show red warning with empty card owner field",
-  "time" : {
-    "start" : 1668939987263,
-    "stop" : 1668940004519,
-    "duration" : 17256
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "580b2532e7a2d1be",
-  "name" : "Should o show red warning with card owner's name with special characters",
-  "time" : {
-    "start" : 1668939957454,
-    "stop" : 1668939962783,
-    "duration" : 5329
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "a94ccf948569daef",
-  "name" : "Should approved payment card with approved test card and min length card owner's name",
-  "time" : {
-    "start" : 1668939848302,
-    "stop" : 1668939867062,
-    "duration" : 18760
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4aa444b8632159e9",
-  "name" : "Should o show red warning with more max length card owner's name by one char",
-  "time" : {
-    "start" : 1668939689409,
-    "stop" : 1668939695450,
-    "duration" : 6041
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "d37fea510fed41e7",
-  "name" : "Should approved payment card with approved test card and min date(current month)",
-  "time" : {
-    "start" : 1668940036050,
-    "stop" : 1668940040547,
-    "duration" : 4497
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a64f9dfffd5e30ea",
-  "name" : "Should to show red warning with empty card number field",
-  "time" : {
-    "start" : 1668939716722,
-    "stop" : 1668939733996,
-    "duration" : 17274
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "220165b967f0d324",
-  "name" : "Should approved credit card with month by one digit",
-  "time" : {
-    "start" : 1668939417493,
-    "stop" : 1668939429511,
-    "duration" : 12018
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "689a8b8535971022",
-  "name" : "Should to show red warning with expired card for year",
-  "time" : {
-    "start" : 1668939446728,
-    "stop" : 1668939465794,
-    "duration" : 19066
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7842d590677bf44e",
-  "name" : "Should approved credit card with approved test card and min date(current month)",
-  "time" : {
-    "start" : 1668939620349,
-    "stop" : 1668939626540,
-    "duration" : 6191
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a5175d66f66a9571",
-  "name" : "Should to show red warning with expired card for month",
-  "time" : {
-    "start" : 1668940042426,
-    "stop" : 1668940064068,
-    "duration" : 21642
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "70d4e8270a5b6896",
-  "name" : "Should to show red warning with empty month field",
-  "time" : {
-    "start" : 1668939881106,
-    "stop" : 1668939898347,
-    "duration" : 17241
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8a9e4e1da9506a1f",
-  "name" : "Should to show red warning with empty all field",
-  "time" : {
-    "start" : 1668939749348,
-    "stop" : 1668939766492,
-    "duration" : 17144
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ca6c2c269e5c74b3",
-  "name" : "Should to show red warning with empty cvc field",
-  "time" : {
-    "start" : 1668940065308,
-    "stop" : 1668940082532,
-    "duration" : 17224
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "145f7ee0c36edba2",
-  "name" : "Should o show red warning with more max length card owner's name by one char",
-  "time" : {
-    "start" : 1668939402049,
-    "stop" : 1668939408630,
-    "duration" : 6581
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "ea555d279eeee845",
-  "name" : "Should to show red warning with empty cvc field",
-  "time" : {
-    "start" : 1668939651248,
-    "stop" : 1668939668444,
-    "duration" : 17196
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7734d3dd3b1fb942",
-  "name" : "Should added correct created date in payment table with APPROVED card",
-  "time" : {
-    "start" : 1668939353053,
-    "stop" : 1668939353157,
-    "duration" : 104
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "3d724b8aabba80bb",
-  "name" : "Should o show red warning with card owner's name is written in Cyrillic",
-  "time" : {
-    "start" : 1668939467517,
-    "stop" : 1668939473544,
-    "duration" : 6027
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "7406a682eb8caf5e",
-  "name" : "Should added credit data to database with DECLINED through API",
-  "time" : {
-    "start" : 1668939352106,
-    "stop" : 1668939352449,
-    "duration" : 343
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ab48b218bc15d5ba",
-  "name" : "Should added credit data to database with APPROVED through API",
-  "time" : {
-    "start" : 1668939352640,
-    "stop" : 1668939352745,
-    "duration" : 105
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9ec74c00babf20a1",
-  "name" : "Should to show red warning with empty all field",
-  "time" : {
-    "start" : 1668939431435,
-    "stop" : 1668939432197,
-    "duration" : 762
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c0249c8e131a1d0c",
-  "name" : "Should added payment data to database with APPROVED through API",
-  "time" : {
-    "start" : 1668939352852,
-    "stop" : 1668939352955,
-    "duration" : 103
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4eb4dafe5c1200d9",
-  "name" : "Should added correct created date in payment table with DECLINED card",
-  "time" : {
-    "start" : 1668939352750,
-    "stop" : 1668939352845,
-    "duration" : 95
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "3e1ba0129129acb",
-  "name" : "Should approved payment card with month by one digit",
-  "time" : {
-    "start" : 1668939736305,
-    "stop" : 1668939747913,
-    "duration" : 11608
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "61db79b10b6df30f",
-  "name" : "Should o show red warning with card owner's name with numbers",
-  "time" : {
-    "start" : 1668939475701,
-    "stop" : 1668939481612,
-    "duration" : 5911
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "5ff3401425e16a2e",
-  "name" : "Should to show red warning with invalid month data",
-  "time" : {
-    "start" : 1668939697049,
-    "stop" : 1668939714628,
-    "duration" : 17579
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7027c9952d6e140a",
-  "name" : "Should added correct created date in credit table with APPROVED card",
-  "time" : {
-    "start" : 1668939352960,
-    "stop" : 1668939353048,
-    "duration" : 88
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "cfafea5307a7da2c",
-  "name" : "Should to show red warning with empty year field",
-  "time" : {
-    "start" : 1668939601420,
-    "stop" : 1668939618649,
-    "duration" : 17229
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6221fac393362f7a",
-  "name" : "Should to show red warning with expired card for month",
-  "time" : {
-    "start" : 1668939628217,
-    "stop" : 1668939649697,
-    "duration" : 21480
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "2c5e25699808e99f",
-  "name" : "Should decline payment card with declined test card",
-  "time" : {
-    "start" : 1668939868266,
-    "stop" : 1668939879814,
-    "duration" : 11548
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "1857439e128008c5",
-  "name" : "Should approved payment card with approved test card and max date minus 1 month",
-  "time" : {
-    "start" : 1668939669487,
-    "stop" : 1668939681479,
-    "duration" : 11992
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "ac90013a2b778940",
-  "name" : "Should approved credit card with approved test card and max date",
-  "time" : {
-    "start" : 1668939575933,
-    "stop" : 1668939600125,
-    "duration" : 24192
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e1a315676f9fd89c",
-  "name" : "Should added correct payment data in order_entity table",
-  "time" : {
-    "start" : 1668939353273,
-    "stop" : 1668939353404,
-    "duration" : 131
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a2df415aff492b86",
+  "uid" : "cdd8d5a13d3510d7",
   "name" : "Should to show red warning with 00 month",
   "time" : {
-    "start" : 1668939964255,
-    "stop" : 1668939985937,
-    "duration" : 21682
+    "start" : 1669192196673,
+    "stop" : 1669192202743,
+    "duration" : 6070
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "ddc2588a0fe4cab0",
-  "name" : "Should added correct credit data in order_entity table",
+  "uid" : "ce66aaa301be8571",
+  "name" : "Should o show red warning with card owner's name with special characters",
   "time" : {
-    "start" : 1668939347859,
-    "stop" : 1668939351981,
-    "duration" : 4122
+    "start" : 1669192172725,
+    "stop" : 1669192195022,
+    "duration" : 22297
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "146b830c72bd9f8d",
+  "uid" : "49031fdc5e0d6150",
+  "name" : "Should approved payment card with approved test card",
+  "time" : {
+    "start" : 1669192539771,
+    "stop" : 1669192563065,
+    "duration" : 23294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b2c8e85f1d7b51a",
+  "name" : "Should added correct created date in credit table with DECLINED card",
+  "time" : {
+    "start" : 1669192276232,
+    "stop" : 1669192276319,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "956b77ce86a0d528",
+  "name" : "Should approved credit card with approved test card",
+  "time" : {
+    "start" : 1669191908649,
+    "stop" : 1669191929442,
+    "duration" : 20793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6eaaf6fb47499395",
+  "name" : "Should to show red warning with empty all field",
+  "time" : {
+    "start" : 1669191994444,
+    "stop" : 1669192011410,
+    "duration" : 16966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "368ad7a49c88d6ca",
+  "name" : "Should added credit data to database with DECLINED through API",
+  "time" : {
+    "start" : 1669192276089,
+    "stop" : 1669192276229,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dab3b4cdac3c4923",
+  "name" : "Should not to show red warning with empty all field after filled field",
+  "time" : {
+    "start" : 1669192133400,
+    "stop" : 1669192157687,
+    "duration" : 24287
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "12d32da70101baae",
+  "name" : "Should added correct created date in credit table with APPROVED card",
+  "time" : {
+    "start" : 1669192276653,
+    "stop" : 1669192276706,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59d5b2d7c067cd33",
+  "name" : "Should added correct payment data in order_entity table",
+  "time" : {
+    "start" : 1669192276831,
+    "stop" : 1669192276913,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "310da2b93ab28d2",
+  "name" : "Should approved payment card with approved test card and min date(current month)",
+  "time" : {
+    "start" : 1669192658481,
+    "stop" : 1669192679710,
+    "duration" : 21229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d890fd45be10e14e",
+  "name" : "Should o show red warning with less min length card owner's name by one char",
+  "time" : {
+    "start" : 1669192438608,
+    "stop" : 1669192444056,
+    "duration" : 5448
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0acdd442e3c87bc",
+  "name" : "Should to show red warning with empty cvc field",
+  "time" : {
+    "start" : 1669192703675,
+    "stop" : 1669192721098,
+    "duration" : 17423
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e4d43ae6f763056",
+  "name" : "Should added credit data to database with APPROVED through API",
+  "time" : {
+    "start" : 1669192276323,
+    "stop" : 1669192276431,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "362a5dd4ddbe5f39",
+  "name" : "Should approved credit card with month by one digit",
+  "time" : {
+    "start" : 1669191964878,
+    "stop" : 1669191992779,
+    "duration" : 27901
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9671381a4347ceb6",
+  "name" : "Should to show red warning with expired card for month",
+  "time" : {
+    "start" : 1669192680868,
+    "stop" : 1669192702512,
+    "duration" : 21644
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e40dbb787fc660b",
+  "name" : "Should to show red warning with empty card owner field",
+  "time" : {
+    "start" : 1669192204563,
+    "stop" : 1669192222055,
+    "duration" : 17492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51a41e46edcb3db8",
+  "name" : "Should to show red warning with empty card number field",
+  "time" : {
+    "start" : 1669192328864,
+    "stop" : 1669192330183,
+    "duration" : 1319
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d44452ebb73d429",
+  "name" : "Should approved payment card with approved test card and min date next month)",
+  "time" : {
+    "start" : 1669192363873,
+    "stop" : 1669192370759,
+    "duration" : 6886
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24c0876f138dd499",
+  "name" : "Should to show red warning with empty card number field",
+  "time" : {
+    "start" : 1669191944610,
+    "stop" : 1669191963457,
+    "duration" : 18847
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2a4e8c3d74b7257",
+  "name" : "Should to show red warning with empty month field",
+  "time" : {
+    "start" : 1669192487582,
+    "stop" : 1669192504996,
+    "duration" : 17414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5df0d17b622104c2",
+  "name" : "Should approved payment card with approved test card and max date minus 1 month",
+  "time" : {
+    "start" : 1669192278859,
+    "stop" : 1669192290701,
+    "duration" : 11842
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f98c95ee4982a00",
+  "name" : "Should o show red warning with less min length card owner's name by one char",
+  "time" : {
+    "start" : 1669192071472,
+    "stop" : 1669192093195,
+    "duration" : 21723
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4acdc6cd8ced743",
+  "name" : "Should o show red warning with card owner's name with special characters",
+  "time" : {
+    "start" : 1669192593904,
+    "stop" : 1669192615587,
+    "duration" : 21683
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7ac356d29870701",
   "name" : "Should to show red warning with empty year field",
   "time" : {
-    "start" : 1668940033281,
-    "stop" : 1668940034804,
-    "duration" : 1523
+    "start" : 1669192233760,
+    "stop" : 1669192235311,
+    "duration" : 1551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c73242e95454e18",
+  "name" : "Should approved payment card with approved test card and min length card owner's name",
+  "time" : {
+    "start" : 1669192445573,
+    "stop" : 1669192456058,
+    "duration" : 10485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c4c6525623a85fc",
+  "name" : "Should approved payment card with approved test card and max length card owner's name",
+  "time" : {
+    "start" : 1669192292468,
+    "stop" : 1669192299935,
+    "duration" : 7467
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecebeb625b4f1b5d",
+  "name" : "Should added correct created date in payment table with DECLINED card",
+  "time" : {
+    "start" : 1669192276434,
+    "stop" : 1669192276555,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edd56895902f4b63",
+  "name" : "Should o show red warning with card owner's name with numbers",
+  "time" : {
+    "start" : 1669192415382,
+    "stop" : 1669192436976,
+    "duration" : 21594
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b04def6368399630",
+  "name" : "Should approved credit card with approved test card and max date minus 1 month",
+  "time" : {
+    "start" : 1669191884022,
+    "stop" : 1669191896623,
+    "duration" : 12601
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "449f7a7c6d72f431",
+  "name" : "Should to show red warning with empty month field",
+  "time" : {
+    "start" : 1669192114560,
+    "stop" : 1669192132261,
+    "duration" : 17701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f39b16975601f56e",
+  "name" : "Should approved credit card with approved test card and min length card owner's name",
+  "time" : {
+    "start" : 1669192104908,
+    "stop" : 1669192112912,
+    "duration" : 8004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24f7b140dc03735e",
+  "name" : "Should to show red warning with empty year field",
+  "time" : {
+    "start" : 1669192639690,
+    "stop" : 1669192657077,
+    "duration" : 17387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99436f839cf5816b",
+  "name" : "Should added payment data to database with DECLINED through API",
+  "time" : {
+    "start" : 1669192276771,
+    "stop" : 1669192276828,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2b1b9d7b5652b5e",
+  "name" : "Should approved credit card with approved test card and max date",
+  "time" : {
+    "start" : 1669192223414,
+    "stop" : 1669192232087,
+    "duration" : 8673
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f32adc471fe25cd4",
+  "name" : "Should added correct credit data in order_entity table",
+  "time" : {
+    "start" : 1669192272852,
+    "stop" : 1669192276075,
+    "duration" : 3223
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffe3592e58101f5d",
+  "name" : "Should approved credit card with approved test card and min date next month)",
+  "time" : {
+    "start" : 1669192012865,
+    "stop" : 1669192019318,
+    "duration" : 6453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3065fca113976f6",
+  "name" : "Should to show red warning with expired card for year",
+  "time" : {
+    "start" : 1669192372508,
+    "stop" : 1669192390203,
+    "duration" : 17695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6140d4533e1b129",
+  "name" : "Should decline payment card with random test card",
+  "time" : {
+    "start" : 1669192564536,
+    "stop" : 1669192592342,
+    "duration" : 27806
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "233e0b50ca5885c",
+  "name" : "Should to show red warning with invalid month data",
+  "time" : {
+    "start" : 1669191940402,
+    "stop" : 1669191942837,
+    "duration" : 2435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3c350d811147089",
+  "name" : "Should to show red warning with empty card owner field",
+  "time" : {
+    "start" : 1669192623928,
+    "stop" : 1669192625632,
+    "duration" : 1704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a07552bb713ba47",
+  "name" : "Should to show red warning with expired card for month",
+  "time" : {
+    "start" : 1669192247146,
+    "stop" : 1669192253460,
+    "duration" : 6314
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "cabc33763b329912",
+  "name" : "Should o show red warning with card owner's name is written in Cyrillic",
+  "time" : {
+    "start" : 1669192024365,
+    "stop" : 1669192046246,
+    "duration" : 21881
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b0323f1f3b8a842",
+  "name" : "Should o show red warning with more max length card owner's name by one char",
+  "time" : {
+    "start" : 1669191931950,
+    "stop" : 1669191938535,
+    "duration" : 6585
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc9ce728803e2b90",
+  "name" : "Should approved payment card with approved test card and max date",
+  "time" : {
+    "start" : 1669192626858,
+    "stop" : 1669192637825,
+    "duration" : 10967
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c903c24153565b3e",
+  "name" : "Should decline payment card with declined test card",
+  "time" : {
+    "start" : 1669192457654,
+    "stop" : 1669192485759,
+    "duration" : 28105
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "46bb3286752f93a4",
+  "name" : "Should added payment data to database with APPROVED through API",
+  "time" : {
+    "start" : 1669192276559,
+    "stop" : 1669192276650,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1ffdd2d74ac6ce2",
+  "name" : "Should to show red warning with empty cvc field",
+  "time" : {
+    "start" : 1669192255440,
+    "stop" : 1669192272796,
+    "duration" : 17356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a1691252ac3fb9d",
+  "name" : "Should decline credit card with declined test card",
+  "time" : {
+    "start" : 1669192159425,
+    "stop" : 1669192170949,
+    "duration" : 11524
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "98c5ba6e4cf25572",
+  "name" : "Should not to show red warning with empty all field after filled field",
+  "time" : {
+    "start" : 1669192506561,
+    "stop" : 1669192538626,
+    "duration" : 32065
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "273fcdd882cd0f7e",
+  "name" : "Should approved payment card with month by one digit",
+  "time" : {
+    "start" : 1669192331399,
+    "stop" : 1669192343306,
+    "duration" : 11907
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1a1192cecd7bd5d",
+  "name" : "Should to show red warning with empty all field",
+  "time" : {
+    "start" : 1669192345639,
+    "stop" : 1669192362555,
+    "duration" : 16916
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0a7488a2a425799",
+  "name" : "Should approved credit card with approved test card and min date(current month)",
+  "time" : {
+    "start" : 1669192236896,
+    "stop" : 1669192245677,
+    "duration" : 8781
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78c5b65d24c5329c",
+  "name" : "Should added correct created date in payment table with APPROVED card",
+  "time" : {
+    "start" : 1669192276710,
+    "stop" : 1669192276768,
+    "duration" : 58
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44fde732f158e656",
+  "name" : "Should to show red warning with expired card for year",
+  "time" : {
+    "start" : 1669192021023,
+    "stop" : 1669192023054,
+    "duration" : 2031
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "398ab43f70fcc1d3",
+  "name" : "Should o show red warning with card owner's name with numbers",
+  "time" : {
+    "start" : 1669192047473,
+    "stop" : 1669192069797,
+    "duration" : 22324
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "324628c086a956fb",
+  "name" : "Should decline credit card with random test card",
+  "time" : {
+    "start" : 1669192094739,
+    "stop" : 1669192103417,
+    "duration" : 8678
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f6f2fd52207dcf2",
+  "name" : "Should to show red warning with invalid month data",
+  "time" : {
+    "start" : 1669192309590,
+    "stop" : 1669192327550,
+    "duration" : 17960
   },
   "status" : "passed",
   "severity" : "normal"

@@ -1,0 +1,94 @@
+{
+  "uid" : "46bb3286752f93a4",
+  "name" : "Should added payment data to database with APPROVED through API",
+  "fullName" : "ru.netology.tests.DBTest.shouldSuccessTransactionWithApprovedPaymentCardThroughAPI",
+  "historyId" : "c9a4ee26c890b98a9c18927b0d195f16",
+  "time" : {
+    "start" : 1669192276559,
+    "stop" : 1669192276650,
+    "duration" : 91
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUpAll",
+    "time" : {
+      "start" : 1669192272851,
+      "stop" : 1669192272851,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownAll",
+    "time" : {
+      "start" : 1669192276915,
+      "stop" : 1669192276915,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:ru.netology.tests.DBTest]/[method:shouldSuccessTransactionWithApprovedPaymentCardThroughAPI()]"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-KRP3OJ30"
+  }, {
+    "name" : "thread",
+    "value" : "7900@LAPTOP-KRP3OJ30.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.tests.DBTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.tests.DBTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldSuccessTransactionWithApprovedPaymentCardThroughAPI"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.tests.DBTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46bb3286752f93a4.json",
+  "parameterValues" : [ ]
+}

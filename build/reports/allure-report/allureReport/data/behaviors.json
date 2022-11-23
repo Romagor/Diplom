@@ -1,626 +1,627 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
   "children" : [ {
-    "name" : "Should added correct credit data in order_entity table",
-    "uid" : "ddc2588a0fe4cab0",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1668939347859,
-      "stop" : 1668939351981,
-      "duration" : 4122
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added credit data to database with DECLINED through API",
-    "uid" : "7406a682eb8caf5e",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1668939352106,
-      "stop" : 1668939352449,
-      "duration" : 343
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added correct created date in credit table with DECLINED card",
-    "uid" : "4b0022e434fc1820",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1668939352454,
-      "stop" : 1668939352632,
-      "duration" : 178
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added credit data to database with APPROVED through API",
-    "uid" : "ab48b218bc15d5ba",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1668939352640,
-      "stop" : 1668939352745,
-      "duration" : 105
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added correct created date in payment table with DECLINED card",
-    "uid" : "4eb4dafe5c1200d9",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1668939352750,
-      "stop" : 1668939352845,
-      "duration" : 95
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added payment data to database with APPROVED through API",
-    "uid" : "c0249c8e131a1d0c",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1668939352852,
-      "stop" : 1668939352955,
-      "duration" : 103
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 5,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added correct created date in credit table with APPROVED card",
-    "uid" : "7027c9952d6e140a",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1668939352960,
-      "stop" : 1668939353048,
-      "duration" : 88
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added correct created date in payment table with APPROVED card",
-    "uid" : "7734d3dd3b1fb942",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1668939353053,
-      "stop" : 1668939353157,
-      "duration" : 104
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added payment data to database with DECLINED through API",
-    "uid" : "c7773e82b7cdc71d",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1668939353162,
-      "stop" : 1668939353268,
-      "duration" : 106
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should added correct payment data in order_entity table",
-    "uid" : "e1a315676f9fd89c",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1668939353273,
-      "stop" : 1668939353404,
-      "duration" : 131
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 4,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
     "name" : "Should approved credit card with approved test card and max date minus 1 month",
-    "uid" : "4590b5163fa9d79a",
+    "uid" : "b04def6368399630",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939359695,
-      "stop" : 1668939371901,
-      "duration" : 12206
+      "start" : 1669191884022,
+      "stop" : 1669191896623,
+      "duration" : 12601
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should credit payment card with approved test card and max length card owner's name",
-    "uid" : "df21ba0961764217",
+    "uid" : "d63d688c825c549e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939373521,
-      "stop" : 1668939385167,
-      "duration" : 11646
+      "start" : 1669191898819,
+      "stop" : 1669191906908,
+      "duration" : 8089
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should approved credit card with approved test card",
-    "uid" : "ef6156882bf88a4b",
+    "uid" : "956b77ce86a0d528",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1668939386712,
-      "stop" : 1668939399829,
-      "duration" : 13117
+      "start" : 1669191908649,
+      "stop" : 1669191929442,
+      "duration" : 20793
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
-    "retriesStatusChange" : true,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with more max length card owner's name by one char",
-    "uid" : "145f7ee0c36edba2",
+    "uid" : "7b0323f1f3b8a842",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939402049,
-      "stop" : 1668939408630,
-      "duration" : 6581
+      "start" : 1669191931950,
+      "stop" : 1669191938535,
+      "duration" : 6585
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with invalid month data",
-    "uid" : "6e0c3bee60ef8282",
+    "uid" : "233e0b50ca5885c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939410496,
-      "stop" : 1668939412587,
-      "duration" : 2091
+      "start" : 1669191940402,
+      "stop" : 1669191942837,
+      "duration" : 2435
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty card number field",
-    "uid" : "9ca789f781500354",
+    "uid" : "24c0876f138dd499",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939413985,
-      "stop" : 1668939415922,
-      "duration" : 1937
+      "start" : 1669191944610,
+      "stop" : 1669191963457,
+      "duration" : 18847
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should approved credit card with month by one digit",
-    "uid" : "220165b967f0d324",
+    "uid" : "362a5dd4ddbe5f39",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939417493,
-      "stop" : 1668939429511,
-      "duration" : 12018
+      "start" : 1669191964878,
+      "stop" : 1669191992779,
+      "duration" : 27901
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty all field",
-    "uid" : "9ec74c00babf20a1",
+    "uid" : "6eaaf6fb47499395",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939431435,
-      "stop" : 1668939432197,
-      "duration" : 762
+      "start" : 1669191994444,
+      "stop" : 1669192011410,
+      "duration" : 16966
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should approved credit card with approved test card and min date next month)",
-    "uid" : "b111c2cc6b84a2c9",
+    "uid" : "ffe3592e58101f5d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939433406,
-      "stop" : 1668939444965,
-      "duration" : 11559
+      "start" : 1669192012865,
+      "stop" : 1669192019318,
+      "duration" : 6453
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with expired card for year",
-    "uid" : "689a8b8535971022",
+    "uid" : "44fde732f158e656",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939446728,
-      "stop" : 1668939465794,
-      "duration" : 19066
+      "start" : 1669192021023,
+      "stop" : 1669192023054,
+      "duration" : 2031
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with card owner's name is written in Cyrillic",
-    "uid" : "3d724b8aabba80bb",
+    "uid" : "cabc33763b329912",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939467517,
-      "stop" : 1668939473544,
-      "duration" : 6027
+      "start" : 1669192024365,
+      "stop" : 1669192046246,
+      "duration" : 21881
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with card owner's name with numbers",
-    "uid" : "61db79b10b6df30f",
+    "uid" : "398ab43f70fcc1d3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939475701,
-      "stop" : 1668939481612,
-      "duration" : 5911
+      "start" : 1669192047473,
+      "stop" : 1669192069797,
+      "duration" : 22324
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with less min length card owner's name by one char",
-    "uid" : "6c894f5eb019aa8f",
+    "uid" : "7f98c95ee4982a00",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939483447,
-      "stop" : 1668939489460,
-      "duration" : 6013
+      "start" : 1669192071472,
+      "stop" : 1669192093195,
+      "duration" : 21723
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should decline credit card with random test card",
-    "uid" : "93556661be56987e",
+    "uid" : "324628c086a956fb",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939491487,
-      "stop" : 1668939501162,
-      "duration" : 9675
+      "start" : 1669192094739,
+      "stop" : 1669192103417,
+      "duration" : 8678
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should approved credit card with approved test card and min length card owner's name",
-    "uid" : "a2b5f29e9187a20e",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1668939502676,
-      "stop" : 1668939514643,
-      "duration" : 11967
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 2,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Should to show red warning with empty month field",
-    "uid" : "3957aa158dd846d9",
+    "uid" : "f39b16975601f56e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939516285,
-      "stop" : 1668939533733,
-      "duration" : 17448
+      "start" : 1669192104908,
+      "stop" : 1669192112912,
+      "duration" : 8004
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should to show red warning with empty month field",
+    "uid" : "449f7a7c6d72f431",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192114560,
+      "stop" : 1669192132261,
+      "duration" : 17701
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should not to show red warning with empty all field after filled field",
-    "uid" : "f8e183d4021b69fd",
+    "uid" : "dab3b4cdac3c4923",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939535284,
-      "stop" : 1668939544463,
-      "duration" : 9179
+      "start" : 1669192133400,
+      "stop" : 1669192157687,
+      "duration" : 24287
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should decline credit card with declined test card",
-    "uid" : "95e697d05edc66f",
+    "uid" : "6a1691252ac3fb9d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939545795,
-      "stop" : 1668939557353,
-      "duration" : 11558
+      "start" : 1669192159425,
+      "stop" : 1669192170949,
+      "duration" : 11524
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with card owner's name with special characters",
-    "uid" : "dd23d645bbc48e86",
+    "uid" : "ce66aaa301be8571",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939558862,
-      "stop" : 1668939564518,
-      "duration" : 5656
+      "start" : 1669192172725,
+      "stop" : 1669192195022,
+      "duration" : 22297
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with 00 month",
-    "uid" : "990aa13451cd7936",
+    "uid" : "cdd8d5a13d3510d7",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939566419,
-      "stop" : 1668939572107,
-      "duration" : 5688
+      "start" : 1669192196673,
+      "stop" : 1669192202743,
+      "duration" : 6070
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty card owner field",
-    "uid" : "810a39eb3793e7cb",
+    "uid" : "3e40dbb787fc660b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939573535,
-      "stop" : 1668939574712,
-      "duration" : 1177
+      "start" : 1669192204563,
+      "stop" : 1669192222055,
+      "duration" : 17492
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should approved credit card with approved test card and max date",
-    "uid" : "ac90013a2b778940",
+    "uid" : "f2b1b9d7b5652b5e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939575933,
-      "stop" : 1668939600125,
-      "duration" : 24192
+      "start" : 1669192223414,
+      "stop" : 1669192232087,
+      "duration" : 8673
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty year field",
-    "uid" : "cfafea5307a7da2c",
+    "uid" : "c7ac356d29870701",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939601420,
-      "stop" : 1668939618649,
-      "duration" : 17229
+      "start" : 1669192233760,
+      "stop" : 1669192235311,
+      "duration" : 1551
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should approved credit card with approved test card and min date(current month)",
-    "uid" : "7842d590677bf44e",
+    "uid" : "d0a7488a2a425799",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939620349,
-      "stop" : 1668939626540,
-      "duration" : 6191
+      "start" : 1669192236896,
+      "stop" : 1669192245677,
+      "duration" : 8781
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with expired card for month",
-    "uid" : "6221fac393362f7a",
+    "uid" : "1a07552bb713ba47",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939628217,
-      "stop" : 1668939649697,
-      "duration" : 21480
+      "start" : 1669192247146,
+      "stop" : 1669192253460,
+      "duration" : 6314
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty cvc field",
-    "uid" : "ea555d279eeee845",
+    "uid" : "b1ffdd2d74ac6ce2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939651248,
-      "stop" : 1668939668444,
-      "duration" : 17196
+      "start" : 1669192255440,
+      "stop" : 1669192272796,
+      "duration" : 17356
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 2,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added correct credit data in order_entity table",
+    "uid" : "f32adc471fe25cd4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1669192272852,
+      "stop" : 1669192276075,
+      "duration" : 3223
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added credit data to database with DECLINED through API",
+    "uid" : "368ad7a49c88d6ca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276089,
+      "stop" : 1669192276229,
+      "duration" : 140
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added correct created date in credit table with DECLINED card",
+    "uid" : "9b2c8e85f1d7b51a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276232,
+      "stop" : 1669192276319,
+      "duration" : 87
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added credit data to database with APPROVED through API",
+    "uid" : "6e4d43ae6f763056",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276323,
+      "stop" : 1669192276431,
+      "duration" : 108
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added correct created date in payment table with DECLINED card",
+    "uid" : "ecebeb625b4f1b5d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276434,
+      "stop" : 1669192276555,
+      "duration" : 121
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added payment data to database with APPROVED through API",
+    "uid" : "46bb3286752f93a4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276559,
+      "stop" : 1669192276650,
+      "duration" : 91
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added correct created date in credit table with APPROVED card",
+    "uid" : "12d32da70101baae",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276653,
+      "stop" : 1669192276706,
+      "duration" : 53
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added correct created date in payment table with APPROVED card",
+    "uid" : "78c5b65d24c5329c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276710,
+      "stop" : 1669192276768,
+      "duration" : 58
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added payment data to database with DECLINED through API",
+    "uid" : "99436f839cf5816b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276771,
+      "stop" : 1669192276828,
+      "duration" : 57
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should added correct payment data in order_entity table",
+    "uid" : "59d5b2d7c067cd33",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669192276831,
+      "stop" : 1669192276913,
+      "duration" : 82
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with approved test card and max date minus 1 month",
-    "uid" : "1857439e128008c5",
+    "uid" : "5df0d17b622104c2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939669487,
-      "stop" : 1668939681479,
-      "duration" : 11992
+      "start" : 1669192278859,
+      "stop" : 1669192290701,
+      "duration" : 11842
     },
     "flaky" : false,
     "newFailed" : false,
@@ -631,13 +632,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with approved test card and max length card owner's name",
-    "uid" : "c519fa741131d029",
+    "uid" : "6c4c6525623a85fc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939682888,
-      "stop" : 1668939688089,
-      "duration" : 5201
+      "start" : 1669192292468,
+      "stop" : 1669192299935,
+      "duration" : 7467
     },
     "flaky" : false,
     "newFailed" : false,
@@ -648,13 +649,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with more max length card owner's name by one char",
-    "uid" : "4aa444b8632159e9",
+    "uid" : "630d898fc682698",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939689409,
-      "stop" : 1668939695450,
-      "duration" : 6041
+      "start" : 1669192301578,
+      "stop" : 1669192307941,
+      "duration" : 6363
     },
     "flaky" : false,
     "newFailed" : false,
@@ -665,13 +666,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with invalid month data",
-    "uid" : "5ff3401425e16a2e",
+    "uid" : "6f6f2fd52207dcf2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939697049,
-      "stop" : 1668939714628,
-      "duration" : 17579
+      "start" : 1669192309590,
+      "stop" : 1669192327550,
+      "duration" : 17960
     },
     "flaky" : false,
     "newFailed" : false,
@@ -682,13 +683,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty card number field",
-    "uid" : "a64f9dfffd5e30ea",
+    "uid" : "51a41e46edcb3db8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939716722,
-      "stop" : 1668939733996,
-      "duration" : 17274
+      "start" : 1669192328864,
+      "stop" : 1669192330183,
+      "duration" : 1319
     },
     "flaky" : false,
     "newFailed" : false,
@@ -699,13 +700,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with month by one digit",
-    "uid" : "3e1ba0129129acb",
+    "uid" : "273fcdd882cd0f7e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939736305,
-      "stop" : 1668939747913,
-      "duration" : 11608
+      "start" : 1669192331399,
+      "stop" : 1669192343306,
+      "duration" : 11907
     },
     "flaky" : false,
     "newFailed" : false,
@@ -716,13 +717,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty all field",
-    "uid" : "8a9e4e1da9506a1f",
+    "uid" : "d1a1192cecd7bd5d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939749348,
-      "stop" : 1668939766492,
-      "duration" : 17144
+      "start" : 1669192345639,
+      "stop" : 1669192362555,
+      "duration" : 16916
     },
     "flaky" : false,
     "newFailed" : false,
@@ -733,13 +734,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with approved test card and min date next month)",
-    "uid" : "2793cd6c70e0ade1",
+    "uid" : "2d44452ebb73d429",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939767388,
-      "stop" : 1668939774460,
-      "duration" : 7072
+      "start" : 1669192363873,
+      "stop" : 1669192370759,
+      "duration" : 6886
     },
     "flaky" : false,
     "newFailed" : false,
@@ -750,13 +751,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with expired card for year",
-    "uid" : "4261596c825abe1d",
+    "uid" : "e3065fca113976f6",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939776190,
-      "stop" : 1668939793357,
-      "duration" : 17167
+      "start" : 1669192372508,
+      "stop" : 1669192390203,
+      "duration" : 17695
     },
     "flaky" : false,
     "newFailed" : false,
@@ -767,13 +768,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with card owner's name is written in Cyrillic",
-    "uid" : "96e65430d22cf2be",
+    "uid" : "cd8be932959f8084",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939794701,
-      "stop" : 1668939800452,
-      "duration" : 5751
+      "start" : 1669192391754,
+      "stop" : 1669192413670,
+      "duration" : 21916
     },
     "flaky" : false,
     "newFailed" : false,
@@ -784,13 +785,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with card owner's name with numbers",
-    "uid" : "92e88155d0c20fdf",
+    "uid" : "edd56895902f4b63",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939802204,
-      "stop" : 1668939823641,
-      "duration" : 21437
+      "start" : 1669192415382,
+      "stop" : 1669192436976,
+      "duration" : 21594
     },
     "flaky" : false,
     "newFailed" : false,
@@ -801,13 +802,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with less min length card owner's name by one char",
-    "uid" : "150befcca75a42b5",
+    "uid" : "d890fd45be10e14e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939825273,
-      "stop" : 1668939846834,
-      "duration" : 21561
+      "start" : 1669192438608,
+      "stop" : 1669192444056,
+      "duration" : 5448
     },
     "flaky" : false,
     "newFailed" : false,
@@ -818,13 +819,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with approved test card and min length card owner's name",
-    "uid" : "a94ccf948569daef",
+    "uid" : "1c73242e95454e18",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939848302,
-      "stop" : 1668939867062,
-      "duration" : 18760
+      "start" : 1669192445573,
+      "stop" : 1669192456058,
+      "duration" : 10485
     },
     "flaky" : false,
     "newFailed" : false,
@@ -835,13 +836,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should decline payment card with declined test card",
-    "uid" : "2c5e25699808e99f",
+    "uid" : "c903c24153565b3e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939868266,
-      "stop" : 1668939879814,
-      "duration" : 11548
+      "start" : 1669192457654,
+      "stop" : 1669192485759,
+      "duration" : 28105
     },
     "flaky" : false,
     "newFailed" : false,
@@ -852,13 +853,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty month field",
-    "uid" : "70d4e8270a5b6896",
+    "uid" : "d2a4e8c3d74b7257",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939881106,
-      "stop" : 1668939898347,
-      "duration" : 17241
+      "start" : 1669192487582,
+      "stop" : 1669192504996,
+      "duration" : 17414
     },
     "flaky" : false,
     "newFailed" : false,
@@ -869,13 +870,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should not to show red warning with empty all field after filled field",
-    "uid" : "404ee7c6d7b3bbd0",
+    "uid" : "98c5ba6e4cf25572",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939899522,
-      "stop" : 1668939929540,
-      "duration" : 30018
+      "start" : 1669192506561,
+      "stop" : 1669192538626,
+      "duration" : 32065
     },
     "flaky" : false,
     "newFailed" : false,
@@ -886,13 +887,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with approved test card",
-    "uid" : "1491b52b87b98038",
+    "uid" : "49031fdc5e0d6150",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939931238,
-      "stop" : 1668939950169,
-      "duration" : 18931
+      "start" : 1669192539771,
+      "stop" : 1669192563065,
+      "duration" : 23294
     },
     "flaky" : false,
     "newFailed" : false,
@@ -903,13 +904,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should decline payment card with random test card",
-    "uid" : "90a67b34be35e9be",
+    "uid" : "f6140d4533e1b129",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "failed",
     "time" : {
-      "start" : 1668939951311,
-      "stop" : 1668939955961,
-      "duration" : 4650
+      "start" : 1669192564536,
+      "stop" : 1669192592342,
+      "duration" : 27806
     },
     "flaky" : false,
     "newFailed" : false,
@@ -920,13 +921,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should o show red warning with card owner's name with special characters",
-    "uid" : "580b2532e7a2d1be",
+    "uid" : "4acdc6cd8ced743",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939957454,
-      "stop" : 1668939962783,
-      "duration" : 5329
+      "start" : 1669192593904,
+      "stop" : 1669192615587,
+      "duration" : 21683
     },
     "flaky" : false,
     "newFailed" : false,
@@ -937,13 +938,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with 00 month",
-    "uid" : "a2df415aff492b86",
+    "uid" : "655c7952b8413aef",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668939964255,
-      "stop" : 1668939985937,
-      "duration" : 21682
+      "start" : 1669192616675,
+      "stop" : 1669192622529,
+      "duration" : 5854
     },
     "flaky" : false,
     "newFailed" : false,
@@ -954,13 +955,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty card owner field",
-    "uid" : "8e5b205278ca8505",
+    "uid" : "d3c350d811147089",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668939987263,
-      "stop" : 1668940004519,
-      "duration" : 17256
+      "start" : 1669192623928,
+      "stop" : 1669192625632,
+      "duration" : 1704
     },
     "flaky" : false,
     "newFailed" : false,
@@ -971,13 +972,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with approved test card and max date",
-    "uid" : "609863ef81314e1c",
+    "uid" : "dc9ce728803e2b90",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668940006232,
-      "stop" : 1668940031588,
-      "duration" : 25356
+      "start" : 1669192626858,
+      "stop" : 1669192637825,
+      "duration" : 10967
     },
     "flaky" : false,
     "newFailed" : false,
@@ -988,13 +989,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty year field",
-    "uid" : "146b830c72bd9f8d",
+    "uid" : "24f7b140dc03735e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668940033281,
-      "stop" : 1668940034804,
-      "duration" : 1523
+      "start" : 1669192639690,
+      "stop" : 1669192657077,
+      "duration" : 17387
     },
     "flaky" : false,
     "newFailed" : false,
@@ -1005,13 +1006,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should approved payment card with approved test card and min date(current month)",
-    "uid" : "d37fea510fed41e7",
+    "uid" : "310da2b93ab28d2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668940036050,
-      "stop" : 1668940040547,
-      "duration" : 4497
+      "start" : 1669192658481,
+      "stop" : 1669192679710,
+      "duration" : 21229
     },
     "flaky" : false,
     "newFailed" : false,
@@ -1022,13 +1023,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with expired card for month",
-    "uid" : "a5175d66f66a9571",
+    "uid" : "9671381a4347ceb6",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1668940042426,
-      "stop" : 1668940064068,
-      "duration" : 21642
+      "start" : 1669192680868,
+      "stop" : 1669192702512,
+      "duration" : 21644
     },
     "flaky" : false,
     "newFailed" : false,
@@ -1039,13 +1040,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Should to show red warning with empty cvc field",
-    "uid" : "ca6c2c269e5c74b3",
+    "uid" : "c0acdd442e3c87bc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1668940065308,
-      "stop" : 1668940082532,
-      "duration" : 17224
+      "start" : 1669192703675,
+      "stop" : 1669192721098,
+      "duration" : 17423
     },
     "flaky" : false,
     "newFailed" : false,
@@ -1054,6 +1055,5 @@
     "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ ]
-  } ],
-  "name" : "behaviors"
+  } ]
 }
